@@ -27,18 +27,7 @@ Wikipedia allows anyone to download its database, and - as it turned out - this 
 To make the whole process less of a burden, Wikipedia founders created a tool called [Export pages](https://en.wikipedia.org/wiki/Special%3aExport) 
 which allows you to select a category you wish to export, and then it automatically pulls a current list of pages that are within this category. 
 
-I used it to create an aggregated list of pages to export. This list is based on the following categories:
-
-```
-Category:Lists_of_cats
-Category:Individual_cats
-Category:Cat_folklore
-Category:Cat_monuments
-Category:Fictional_cats
-```
-
-A complete list of pages that this tool listed for export is located  [here](report/exported-wiki-pages.md). 
-
+A complete list of pages that I decided to work on is following:
 ```
 Creme_Puff_(cat)
 Tuxedo_Stan
