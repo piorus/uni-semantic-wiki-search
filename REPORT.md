@@ -10,6 +10,8 @@ Piotr Rusin
 
 ## Abstract
 
+The project describes the process of creating a semantic search engine in Python that allows you to search for related pages about cats based on the Wikipedia database.
+
 ## 1. Introduction
 
 ### 1.1 Problem to solve
