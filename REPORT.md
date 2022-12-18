@@ -10,8 +10,6 @@ Piotr Rusin
 
 ## Abstract
 
-The project describes the process of creating a semantic search engine in Python that allows you to search for related pages about cats based on the Wikipedia database.
-
 ## 1. Introduction
 
 ### 1.1 Problem to solve
@@ -20,7 +18,7 @@ Construct a semantic search engine with a database based on Wikipedia (selected 
 
 ### 1.2 Selection of topic
 
-As a topic I selected cats because Wikipedia stores information about a wide range of species, and related pages are frequently updated by cat lovers. 
+As a topic, I selected cats because Wikipedia stores information about a wide range of species, and related pages are frequently updated by cat lovers. 
 
 ### 1.3 Wikipedia page export
 
@@ -49,7 +47,7 @@ The unprocessed XML file that was exported as a result is located within this re
 
 ### 2.1 Parsing raw XML into JSON
 
-Wikipedia uses XMLs for their dumps. Fortunately, there is a Python CLI tool called [wikiextractor](https://github.com/attardi/wikiextractor) that can smoothly convert it into JSON.
+Wikipedia uses XMLs for its dumps. Fortunately, there is a Python CLI tool called [wikiextractor](https://github.com/attardi/wikiextractor) that can smoothly convert it into JSON.
 
 
 First, I installed it through pipenv:
@@ -57,7 +55,7 @@ First, I installed it through pipenv:
 pipenv install wikiextractor
 ```
 
-Then, I converted XML dump to JSON by executing:
+Then, I converted the XML dump to JSON by executing:
 ```
 pipenv run wikiextractor Wikipedia.xml --json
 ```
@@ -72,9 +70,9 @@ with the following content:
 
 ### 2.2 Parsing wikiextractor output
 
-wikiextractor saved the pages JSON in separate files (useful for bigger exports). 
+wikiextractor saved the page's JSON in separate files (useful for bigger exports). 
 
-This output still needs to be loaded in Python, and JSON string needs to be parsed into Python dictionary.
+This output still needs to be loaded in Python, and the JSON string needs to be parsed into Python dictionary.
 
 I decided to create a generator that recursively iterates over wikiextractor output files, parse each line as JSON, and yields it as a result:
 ```python
@@ -113,7 +111,7 @@ corpus = [page['text'] for page in pages.values()]
 index = [page['title'] for page in pages.values()]
 ```
 
-I decided to use page titles as index for `pandas` printouts.
+I decided to use page titles as an index for `pandas` printouts.
 
 ### 2.5 Stop words
 
@@ -128,10 +126,10 @@ I've appended a list of additional stop words, but as of now only `known` landed
 
 ### 2.6 REPL
 
-Loop consist of logic that is responsible for:
+Loop consists of logic that is responsible for:
 * awaiting for user input - needed to process semantic search over corpus
 * user input tokenization - I used `nltk.tokenize.casual.casual_tokenize`
-* creation of TF-IDF vectorizer (`sklearn.feature_extraction.text.TfidfVectorizer`) with vocabulary that consist of tokenized user input, filtered by stop words
+* creation of TF-IDF vectorizer (`sklearn.feature_extraction.text.TfidfVectorizer`) with vocabulary that consists of tokenized user input, filtered by stop words
 * building TF-IDF documents for corpus through vectorizer. Page titles are used as `pandas` indexes
 * and finally... searching. Search is based on Principal Component Analysis (`PCA`)
 
@@ -172,7 +170,7 @@ for page_title, row in pca_topic_vectors.iterrows():
         min_topic = page_title
 ```
 
-`min_topic` is the page title which is closest to the probable search result we are looking for.
+`min_topic` is the page title that is closest to the probable search result we are looking for.
 
 ### 2.9 Displaying the result
 
@@ -240,9 +238,9 @@ Implementation of semantic search through TF-IDF and PCA is satisfying, but unfo
 (1) corpus is reloaded on each iteration 
 (2) corpus is kept in memory all the time
 
-This is all good when dealing with smaller datasets (tens, hundreds, thousands, tens of thousands, or hundred of thusands) but becomes serve weakness when dealing with milions or bilions of records.
+This is all good when dealing with smaller datasets (tens, hundreds, thousands, tens of thousands, or hundreds of thousands) but becomes serve weakness when dealing with millions or billions of records.
 
-Creators of search engines like Google know that, and thus are using solutions like [inverted database indexes](https://en.wikipedia.org/wiki/Search_engine_indexing#Inverted_indices) to avoid this issue.
+Creators of search engines like Google know that and thus are using solutions like [inverted database indexes](https://en.wikipedia.org/wiki/Search_engine_indexing#Inverted_indices) to avoid this issue.
 
 ## Bibliography & Sources
 
