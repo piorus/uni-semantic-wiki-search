@@ -53,7 +53,6 @@ def search(Q: str, tfidf_vectorizer: TfidfVectorizer, tfidf_docs: pd.DataFrame, 
     pca_q = pca.transform(tfidf_q.values)
     print('\npca_q = ', pca_q, '\n')
 
-    # distances = []
     min_distance = 1
     min_topic = None
 
