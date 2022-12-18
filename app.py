@@ -4,13 +4,9 @@ import json
 import pandas as pd
 import nltk
 from sklearn.feature_extraction.text import TfidfVectorizer
-
 from sklearn.decomposition import PCA
 
 WIKIEXTRACTOR_OUTPUT_DIR = 'text'
-
-
-# pd.set_option('display.max_columns', None)
 
 
 def prepare_text(text):
@@ -79,10 +75,8 @@ def search(Q: str, tfidf_vectorizer: TfidfVectorizer, tfidf_docs: pd.DataFrame, 
 pages = {page['title']: page for page in wiki_pages_generator() if page['text'] != ''}
 corpus = [prepare_text(page['text']) for page in pages.values()]
 index = [page['title'] for page in pages.values()]
-# nltk.download('stopwords', quiet=True)
 stop_words = nltk.corpus.stopwords.words('english')
 stop_words += ['known']
-# print('corpus = \n{}\n'.format('\n'.join(corpus)))
 
 while True:
     Q = input('> ')
