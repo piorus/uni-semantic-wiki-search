@@ -1,0 +1,947 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.10/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.10/ http://www.mediawiki.org/xml/export-0.10.xsd" version="0.10" xml:lang="en">
+  <siteinfo>
+    <sitename>Wikipedia</sitename>
+    <dbname>enwiki</dbname>
+    <base>https://en.wikipedia.org/wiki/Main_Page</base>
+    <generator>MediaWiki 1.40.0-wmf.14</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Media</namespace>
+      <namespace key="-1" case="first-letter">Special</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Talk</namespace>
+      <namespace key="2" case="first-letter">User</namespace>
+      <namespace key="3" case="first-letter">User talk</namespace>
+      <namespace key="4" case="first-letter">Wikipedia</namespace>
+      <namespace key="5" case="first-letter">Wikipedia talk</namespace>
+      <namespace key="6" case="first-letter">File</namespace>
+      <namespace key="7" case="first-letter">File talk</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki talk</namespace>
+      <namespace key="10" case="first-letter">Template</namespace>
+      <namespace key="11" case="first-letter">Template talk</namespace>
+      <namespace key="12" case="first-letter">Help</namespace>
+      <namespace key="13" case="first-letter">Help talk</namespace>
+      <namespace key="14" case="first-letter">Category</namespace>
+      <namespace key="15" case="first-letter">Category talk</namespace>
+      <namespace key="100" case="first-letter">Portal</namespace>
+      <namespace key="101" case="first-letter">Portal talk</namespace>
+      <namespace key="118" case="first-letter">Draft</namespace>
+      <namespace key="119" case="first-letter">Draft talk</namespace>
+      <namespace key="710" case="first-letter">TimedText</namespace>
+      <namespace key="711" case="first-letter">TimedText talk</namespace>
+      <namespace key="828" case="first-letter">Module</namespace>
+      <namespace key="829" case="first-letter">Module talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget talk</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget definition talk</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Creme Puff (cat)</title>
+    <ns>0</ns>
+    <id>4706881</id>
+    <revision>
+      <id>1123360794</id>
+      <parentid>1123360696</parentid>
+      <timestamp>2022-11-23T09:22:42Z</timestamp>
+      <contributor>
+        <username>Marleeashton</username>
+        <id>21501829</id>
+      </contributor>
+      <comment>Reverted [[WP:AGF|good faith]] edits by [[Special:Contributions/114.75.45.30|114.75.45.30]] ([[User talk:114.75.45.30|talk]]): Reverting grammar change</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4971" xml:space="preserve">{{short description|Oldest cat on record}}
+{{Use mdy dates|date=July 2020}}
+{{Infobox animal
+| name        = Creme Puff
+| othername   = Crème Puff
+| species     = ''[[cat|Felis catus]]''
+| image       = Creme-puff-oldest-cat.jpg
+| caption     = Creme Puff in 1996 (aged {{ay|1967|1996}})
+| gender      = [[Female]]
+| birth_date  = {{birth date|1967|8|3}}
+| birth_place = [[Austin, Texas|Austin]], [[Texas]], [[United States|U.S.]]
+| death_date  = {{death date and age|2005|8|6|1967|8|3}}
+| death_place = Austin, Texas, U.S.
+| owner       = Jake Perry 
+| imagesize   = 250px
+| known       = The oldest cat in the world
+}}
+'''Creme Puff''' (August 3, 1967 &amp;ndash; August 6, 2005) was a [[cat|domestic cat]], owned by Jake Perry of [[Austin, Texas]], US. She was [[List of oldest cats|the oldest cat ever recorded]], according to the 2010 edition of ''[[Guinness World Records]]'',&lt;ref name=G2010&gt;{{cite book |year=2010 |title=Guinness World Records 2010 |url=https://books.google.com/books?id=hLYzvUvPL3MC&amp;pg=PA320 |publisher=Bantam; Reprint edition |page=320 |isbn=978-0-553-59337-2 |quote=The oldest cat ever was Creme Puff, who was born on August 3, 1967, and lived until April 1, 1998—36 years and 3 days in total. }}&lt;/ref&gt;&lt;ref&gt;{{citation |title=Oldest cat ever |url=http://www.guinnessworldrecords.com/world-records/oldest-cat-ever |publisher=Guinness World Records Corporate |accessdate=April 20, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite news |last=Warren |first=Jessica |date=October 23, 2009 |title=Caterack Dies - World's Oldest Cat Was 30! |url=http://www.nationalledger.com/cgi-bin/artman/exec/view.cgi?archive=42&amp;num=28649 |archive-url=https://archive.today/20120909030904/http://www.nationalledger.com/cgi-bin/artman/exec/view.cgi?archive=42&amp;num=28649 |url-status=dead |archive-date=September 9, 2012 |quote=A report from MSNBC News notes that the oldest cat ever recorded was a 36-year-old feline named Creme Puff, according to a rep from Guinness World Records. |work=The National Ledger |accessdate=July 17, 2010 }}&lt;/ref&gt; when she died aged 38 years and 3 days.
+
+Perry had another cat, Granpa Rex Allen, who he said was born in [[Paris, Texas]], on 1 February 1964 and died aged 34 years and 59 days on 1 April 1998. The sixth oldest cat ever known, Granpa was posthumously awarded 1999 Cat of the Year by ''Cats &amp; Kittens'' magazine.&lt;ref&gt;{{citation |archiveurl=https://web.archive.org/web/20100226035922/http://www.petpublishing.com/catkit/articles/grandpa.shtml |archivedate=February 26, 2010 |url=http://www.petpublishing.com/catkit/articles/grandpa.shtml |title=Grandpa Rexs Allen - Cats &amp; Kittens 1999 Cat of the Year |work=Cats &amp; Kittens Magazine |accessdate=June 28, 2010 }}&lt;/ref&gt; He was featured in an earlier version of the ''Guinness World Records'' as the (then) oldest cat ever.&lt;ref&gt;{{cite web |title=Oldest cat ever |url=https://www.guinnessworldrecords.com/world-records/oldest-cat-ever |website=Guinness World Records |publisher=guinnessworldrecords.com |accessdate=January 8, 2020}}&lt;/ref&gt;
+
+== Lifestyle ==
+Creme Puff's owner, Jake Perry, said her diet consisted of dry cat food supplemented with broccoli, eggs, turkey bacon, coffee with cream, and—every two days—"an eyedropper full of red wine". Perry claimed that this diet was key to her longevity, and that the wine "circulated the arteries".&lt;ref&gt;{{Cite web|url=http://www.atlasobscura.com/articles/how-to-raise-a-165-year-old-cat|title=How to Raise a 165-Year-Old Cat|last=Couch|first=Christina|date=December 19, 2015|website=Atlas Obscura|language=en|access-date=December 4, 2019}}&lt;/ref&gt;
+
+Perry also kept Creme Puff very active within the home, turning his garage into a movie theater that played nature documentaries for his cats. Wooden steps were built into the walls of Perry's home for the cats to climb on, and Perry had built a screened enclosure in his backyard for his pets, including Creme Puff, to enjoy the outdoors.&lt;ref&gt;{{Cite web|last=Leclair|first=Britanie|date=January 23, 2018|title=Owners Of World's Oldest Cats Reveal Secrets of Feline Longevity. It's Not What You'd Expect|url=https://animalchannel.co/oldest-cats-feline-longevity-secrets/|url-status=live|archive-url=https://web.archive.org/web/20191204184843/https://animalchannel.co/oldest-cats-feline-longevity-secrets/ |archive-date=December 4, 2019 |access-date=December 4, 2019|website=Animal Channel|language=en}}&lt;/ref&gt;
+
+== See also ==
+* [[Aging in cats]]
+* [[List of oldest cats]]
+* [[List of individual cats]]
+* [[Bluey (dog)|Bluey]], the longest-lived dog
+
+==References==
+{{reflist}}
+
+== External links ==
+* ''[https://www.youtube.com/watch?v=MomPIBPD7ig South Paws]'', a documentary about Jake Perry and his cats.
+
+__FORCETOC__
+
+{{DEFAULTSORT:Creme Puff (Cat)}}
+[[Category:1967 animal births]]
+[[Category:2005 animal deaths]]
+[[Category:Individual cats]]
+[[Category:Oldest animals]]
+[[Category:Cats in the United States]]
+[[Category:Individual animals in the United States]]
+[[Category:History of Austin, Texas]]</text>
+      <sha1>pqr6xpqncn2kajih7g5fo9wpouapa2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Tuxedo Stan</title>
+    <ns>0</ns>
+    <id>68093922</id>
+    <revision>
+      <id>1118130988</id>
+      <parentid>1104798520</parentid>
+      <timestamp>2022-10-25T10:28:24Z</timestamp>
+      <contributor>
+        <username>Dingolover6969</username>
+        <id>31348440</id>
+      </contributor>
+      <comment>We must use the passive voice here, because a cat cannot announce.</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2846" xml:space="preserve">{{Short description|Cat who "ran for mayor" in Halifax, Nova Scotia}}
+{{Infobox animal
+| name               = Tuxedo Stan
+| species            = [[Cat]]
+| gender             = Male
+| birth_name         = Tuxedo Stanley
+| birth_date         = {{circa}} 2010
+| birth_place        =
+| death_date         = {{death date and age|2013|9|9|2010|1|1}}
+| death_place        =
+| owner              = {{flatlist|
+* Kathy Chisholm
+*Hugh Chisholm}}
+| parents             = Greycie
+| appearance              = Black-and-white [[Tuxedo cat|tuxedo]]
+}}
+
+'''Tuxedo Stan''' ({{circa}} 2010 – September 9, 2013) was a black and white cat who ran for mayor of [[Halifax, Nova Scotia]] in the 2012 municipal elections. After the announcement of his candidacy, he achieved international attention and was endorsed by [[Ellen DeGeneres]] and [[Anderson Cooper]].&lt;ref&gt;{{cite web|url=https://www.cbc.ca/news/canada/nova-scotia/ellen-degeneres-endorses-tuxedo-stan-for-mayor-1.1242385 |title=Ellen Degeneres endorses Tuxedo Stan for mayor |website=cbc.ca |date=October 16, 2012 |access-date=June 30, 2021}}&lt;/ref&gt;
+
+==Political campaign==
+In 2012, a small group of friends created a political party ("The Tuxedo Party of Canada") to raise awareness of the growing feral cat population in Halifax.&lt;ref&gt;{{cite web|url=https://tuxedostan.com/ |title=Tuxedo Party of Canada |access-date=June 30, 2021}}&lt;/ref&gt; They created a [[Facebook]] group and announced Tuxedo Stan's candidacy for mayor of [[Halifax, Nova Scotia]] in the 2012 municipal elections. Although he was unable to formally run because regulations required that candidates have a [[birth certificate]],&lt;ref name="death"&gt;{{cite web|url=https://www.cbc.ca/news/canada/nova-scotia/tuxedo-stan-the-halifax-cat-who-ran-for-mayor-dies-1.1700782 |title=Tuxedo Stan, the Halifax cat who ran for mayor, dies |website=cbc.ca |date=September 9, 2013 |access-date=June 30, 2021}}&lt;/ref&gt; he quickly gained international attention and drew attention to local [[Trap–neuter–return]] efforts.
+
+In the wake of his failed mayoral bid, the [[Halifax Regional Council]] voted to give $40,000 to the SPCA for a new vet clinic that will spay and neuter feral cats.&lt;ref&gt;{{cite web|url=https://atlantic.ctvnews.ca/halifax-city-council-approves-40-000-for-feral-cat-clinic-1.1281547 |title=Halifax city council approves $40,000 for feral cat clinic |website=ctvnews.ca |date=May 14, 2013 |access-date=June 30, 2021}}&lt;/ref&gt;
+
+==Death==
+Tuxedo Stan was euthanized by his owners on September 9, 2013 after a battle with terminal cancer.&lt;ref name="death"/&gt;
+
+==See also==
+* [[List of individual cats]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://tuxedostan.com/ The Tuxedo Party of Canada]
+
+
+
+[[Category:2013 animal deaths]]
+[[Category:Animal welfare]]
+[[Category:Joke political parties in Canada]]
+[[Category:Cats in Canada]]</text>
+      <sha1>03mhv00t8pzbfqr9nnd426ahsjm68qu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Think Think and Ah Tsai</title>
+    <ns>0</ns>
+    <id>50857426</id>
+    <revision>
+      <id>1122020022</id>
+      <parentid>1116785037</parentid>
+      <timestamp>2022-11-15T11:58:56Z</timestamp>
+      <contributor>
+        <username>27samurai</username>
+        <id>43470233</id>
+      </contributor>
+      <comment>deleted a paragraph about tsai ing-wen because it doesnt relate with the cats</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28666" xml:space="preserve">{{short description|Cats belonging to Tsai Ing-wen}}
+{{Infobox animal
+| name                    = Think Think and Ah Tsai
+| image                   = {{multiple image|perrow=1|image1=07.22 總統錄製Youtube影片.jpg|caption1 = Think Think|image2=04.12 總統觀賞中華職棒比賽 Tsai Ing-Wen watching baseball with Ah Tsai.jpg|caption2 = Ah Tsai|image_style=border:none|width=260|align=center}}
+| image_size              = 
+| image_upright           = 
+| caption                 = 
+| birth_name              = 
+| othername               = Xiǎngxiǎng or 'Cookie'; and Ācái
+| species                 = [[Cat]]
+| breed                   = 
+| gender                  = Female and Male
+| birth_date              = 
+| birth_place             = Taiwan
+| death_date              = 
+| death_place             = 
+| resting_place           = 
+| resting_place_coordinates = 
+| nationality             = Taiwanese
+| occupation              = Presidential cats
+| employer                = 
+| role                    = Companionship, election support
+| years_active            = 
+| known                   = 
+| tricks                  = 
+| awards                  = 
+| title                   = 
+| term                    = 
+| predecessor             = 
+| successor               = 
+| owner                   = Tsai Ing-wen
+| residence               = [[Official Residence of the President (Republic of China)]]
+| parents                 = 
+| children                = 
+| weight                  = 
+| height                  = 
+| appearance              = 
+| namedafter              = 
+| website                 = 
+}}
+'''Think Think''' ({{zh|c=想想|p=Xiǎngxiǎng}}) and '''Ah Tsai''' ({{zh|c=阿才|p=Ācái|labels=no}}) are two cats belonging to the [[President of Taiwan]], [[Tsai Ing-wen]]. Think Think is a female grey [[tabby cat|tabby]], while Ah Tsai is ginger, and male.&lt;ref name="auto6"&gt;{{cite news |url=http://www.bangkokpost.com/news/asia/989665/taiwans-cat-loving-president-to-adopt-retired-guide-dogs |title=Taiwan's cat-loving president to adopt retired guide dogs |newspaper=[[Bangkok Post]] |date=26 May 2016 |accessdate=21 June 2016 |url-access=subscription }}&lt;/ref&gt;&lt;ref name="nikkei1"/&gt;
+
+==Origin of the cats==
+Think Think was adopted by Tsai in 2012,&lt;ref name="nikkei1"&gt;{{cite news |url=http://asia.nikkei.com/Politics-Economy/Policy-Politics/Tsai-Ing-wen-sworn-in-as-Taiwan-s-1st-female-president |title=Tsai Ing-wen sworn in as Taiwan's 1st female president |newspaper=[[Nikkei Asian Review]] |date=20 May 2016 |accessdate=18 June 2016 |archive-date=10 August 2016 |archive-url=https://web.archive.org/web/20160810030944/http://asia.nikkei.com/Politics-Economy/Policy-Politics/Tsai-Ing-wen-sworn-in-as-Taiwan-s-1st-female-president |url-status=dead }}&lt;/ref&gt; after being brought to her as a homeless kitten by [[Democratic Progressive Party]] (DPP) [[Legislative Yuan|legislator]] [[Hsiao Bi-khim]].  Hsiao had found the kitten on a muddy road by a railway station near  [[Hualien City|Hualien]] after [[Typhoon Saola (2012)|Typhoon Saola]].&lt;ref&gt;{{cite web |first=Iris |last=Lu |url=http://www.visiontimes.com/2016/02/05/meet-the-cats-of-taiwans-first-female-president.html |title=Meet the Cats of Taiwan's First Female President |website=The Vision Times |date=5 February 2016 |accessdate=18 June 2016}}&lt;/ref&gt; Ah Tsai (meaning 'talent') was a [[farm cat]], and a gift from a friend during Tsai's presidential campaign.&lt;ref name="auto6"/&gt; The cat was found near a pineapple field in [[Taitung County]] in eastern Taiwan.&lt;ref name="auto4"&gt;{{Cite web|last=姜庚宇|date=2019-02-14|title=【情人節】蔡英文「曬」愛貓照 與貓共度：只要有愛就是好日子|url=https://www.hk01.com/台灣新聞/294719/情人節-蔡英文-曬-愛貓照-與貓共度-只要有愛就是好日子|access-date=2020-07-13|website=香港01|language=zh-HK}}&lt;/ref&gt;
+
+Prior to her election as president, Tsai lived in a modest apartment with the two cats.&lt;ref&gt;{{cite news |url=https://www.telegraph.co.uk/news/worldnews/asia/taiwan/12058825/China-sends-warning-to-Taiwan-as-it-prepares-to-elect-first-woman-president.html |title=China sends warning to Taiwan as it prepares to elect first woman president |first1=Julian |last1=Ryall |first2=Richard |last2=Spencer |date=1 January 2016 |newspaper=[[The Daily Telegraph]]}}&lt;/ref&gt; Think Think was originally skinny, covered in mud and suffering from skin diseases – but soon recovered under Tsai's care.&lt;ref&gt;{{Cite web|last=风采|date=2020-03-17|title=《平民女总统蔡英文》2：怀胎得女 她是蔡想想的妈|url=https://feminine.com.my/news/%e3%80%8a%e5%b9%b3%e6%b0%91%e5%a5%b3%e6%80%bb%e7%bb%9f%e8%94%a1%e8%8b%b1%e6%96%87%e3%80%8b2%ef%bc%9a%e6%80%80%e8%83%8e%e5%be%97%e5%a5%b3-%e5%a5%b9%e6%98%af%e8%94%a1%e6%83%b3%e6%83%b3%e7%9a%84%e5%a6%88/|access-date=2020-07-13|language=en-US}}&lt;/ref&gt; Tsai says that the cats generally get along well with each other, but do fight occasionally.&lt;ref&gt;{{Cite web|last=中時電子報|title=鄭宏輝搶攻寵物票 蔡英文力挺到底 - 政治|url=https://www.chinatimes.com/realtimenews/20191015002961-260407?chdtv|access-date=2020-07-13|website=中時電子報|language=zh-Hant-TW}}&lt;/ref&gt;
+
+==Social media updates==
+[[File:Tsai Ing-wen at Hsinchu Animal Protection Education Park, Taiwan.jpg|thumb|Tsai visiting the Hsinchu Animal Protection Education Park in July 2020]]
+[[File:Tsai Ing-wen in Shenkeng Old Street, New Taipei City.jpg|thumb|Tsai being presented with a picture of herself and her two cats.]]
+During her presidency, Tsai has regularly posted social media updates which include her cats, and these are popular.&lt;ref&gt;{{Cite book|last=《中國密報》編輯部|url=https://books.google.com/books?id=LgZGDAAAQBAJ&amp;q=%E8%94%A1%E8%8B%B1%E6%96%87+%E6%83%B3%E6%83%B3+%E9%98%BF%E6%89%8D&amp;pg=PT141|title=《中國密報》第46期: 江澤民導演習李鬥？|date=2016-06-02|publisher=中國密報雜誌社|isbn=978-1-68182-163-4|language=zh-TW}}&lt;/ref&gt; During the [[COVID-19 pandemic]], one of these posts discouraged Taiwanese citizens from performing [[April Fools' Day]] pranks which involved false rumours. Posting a picture of herself with one of the cats, she said: "...we can exercise our sense of humor...but we can’t make jokes about the pandemic, to avoid breaking the law", and: "I wish everybody not only a humorous, but also healthy and safe April Fools’ Day".&lt;ref&gt;{{Cite web|last=Submission|first=Internal|date=2020-04-01|title=Pandemic pranks off the table on April Fools' Day|url=https://www.japantimes.co.jp/news/2020/04/01/world/pandemic-pranks-off-table-april-fools-day/|access-date=2020-07-09|website=The Japan Times|language=en-US}}&lt;/ref&gt;
+
+When baseball games resumed after Taiwan's pandemic lockdown was partially lifted, with the [[Chinatrust Brothers]] taking on the [[Uni-President Lions|Uni-President 7-Eleven Lions]], Tsai posted a picture of herself watching the game at home, accompanied by one of the cats.&lt;ref&gt;{{Cite web|last=hermes|date=2020-04-14|title=Taiwan first up to the plate|url=https://www.straitstimes.com/sport/taiwan-first-up-to-the-plate|access-date=2020-07-09|website=The Straits Times|language=en}}&lt;/ref&gt; A new Twitter hashtag – #ThisAttackComeFromTaiwan – aims to welcome overseas visitors to Taiwan after the pandemic, and includes images of Taiwanese landscapes, [[bubble tea]], and Tsai's cats.&lt;ref&gt;{{Cite news|last=Aspinwall|first=Nick|title=Tsai Rejects Accusations Taiwan Attacked WHO Chief, Invites Him to Visit|url=https://thediplomat.com/2020/04/tsai-rejects-accusations-taiwan-attacked-who-chief-invites-him-to-visit/|access-date=2020-07-09|website=thediplomat.com|language=en-US}}&lt;/ref&gt;
+
+In 2019, Tsai posted pictures on social media of Ah Tsai attentively watching television, and enjoying the Animal Channel.&lt;ref&gt;{{Cite web|last=三立新聞網|date=2019-02-07|title=「蔡阿才」看電視遭蔡英文偷拍！不科學身材引網友熱議 {{!}} 政治 {{!}} 三立新聞網 SETN.COM|url=https://www.setn.com/News.aspx?NewsID=496078|access-date=2020-07-13|website=www.setn.com|language=zh-Hant-TW}}&lt;/ref&gt; On Valentine's Day in 2019, Tsai's message to citizens featured the two cats.&lt;ref name="auto4"/&gt; In the lead up to the 2020 election, Tsai advised her supporters to ignore 'fake news' about the cats' health, and that they were in fine form.&lt;ref&gt;{{Cite web|title=蔡英文秀貓活蹦亂跳 稱不要在網路造謠|url=https://www.ctwant.com/article/10420|access-date=2020-07-13|website=www.ctwant.com|language=zh-Hant-TW}}&lt;/ref&gt;
+
+In July 2020, Tsai visited the [[Hsinchu]] Animal Protection Education Park, where she made a statement urging citizens who wanted pets to adopt stray animals, instead of purchasing them.&lt;ref&gt;{{Cite web|title=參訪新竹市動保園區 總統呼籲國人「以認養代替購買」 讓無家可歸的毛小孩重新開始新的生活|url=https://www.president.gov.tw/NEWS/25441|access-date=2020-07-24|website=www.president.gov.tw|language=zh-tw}}&lt;/ref&gt;
+
+==Media coverage==
+===Supporters and critics===
+Shortly after Tsai was elected as president in 2016, she was criticised for being a single woman – and therefore 'emotional' and 'erratic' – in a newspaper article published by China's state news agency [[Xinhua]].&lt;ref&gt;{{cite news |url=https://www.nytimes.com/2016/05/26/world/asia/china-taiwan-tsai-unmarried-single.html |title=Tsai Ing-wen, Taiwan's First Female Leader, Is Assailed in China for Being 'Emotional' |first1=Javier C. |last1=Hernández |first2=Vanessa Piao |last2=May |date=25 May 2016 |newspaper=[[The New York Times]]}}&lt;/ref&gt; The article, written by [[Wang Weixing]]&lt;ref name="straitstimes1"&gt;{{cite news |url=http://www.straitstimes.com/asia/east-asia/sexist-remarks-on-tsai-ing-wen-spark-outrage-in-china-taiwan |title=Sexist remarks on Tsai Ing-wen spark outrage in China, Taiwan |newspaper=The Straits Times |date=26 May 2016 |accessdate=19 June 2016}}&lt;/ref&gt; a military officer in the [[Peoples Liberation Army|PLA]], provoked an outcry for its sexist views,&lt;ref name="straitstimes1"/&gt; and was quickly withdrawn. On China's social media platform [[Sina Weibo]], one commentator suggested that the Chinese leadership are "... probably threatened that a cat lady like Ms Tsai could beat any men she sets her mind to&amp;nbsp;...".&lt;ref&gt;{{cite web |url=http://nytlive.nytimes.com/womenintheworld/2016/05/25/taiwan-president-accused-of-being-extremist-and-erratic-because-she-is-single/ |title=Taiwan president accused of being "extremist" and "erratic" because she is single |author=WITW Staff |website=[[Women in the World]] |date=20 May 2016 |accessdate=19 June 2016}}&lt;/ref&gt;
+
+Taiwanese activist magazine ''New Bloom'' describes her as 'an unorthodox politician&amp;nbsp;... a female academic who loves cats and supports [[LGBT rights in Taiwan|gay rights]]'.&lt;ref&gt;{{cite web |url=http://newbloommag.net/2016/01/18/taiwan-narrative-tsai/ |title=Is the Narrative About Taiwan Changing After Tsai Ing-Wen's Presidential Victory? |first=Brian |last=Hioe |website=New Bloom |date=18 January 2016 |accessdate=21 June 2016}}&lt;/ref&gt; Gideon Rachman of the ''[[Financial Times]]'' observes that Tsai is one of two cat-lovers who have recently risen to power – the other being [[Jaroslaw Kaczynski]], leader of Poland's ruling Law and Justice Party.&lt;ref&gt;{{cite web |url=https://next.ft.com/content/165b3e09-847e-3e05-930e-33ea5802b7b6 |title=Rise of the cat leaders |first=Gideon |last=Rachman |newspaper=Financial Times |date=1 June 2016 |accessdate=20 June 2016 |url-access=subscription }}&lt;/ref&gt;
+
+In June 2016, while in Miami, Tsai met Taiwanese professional baseball pitcher [[Wei-Yin Chen]], whose gifts to her included feeding bowls for each of the two cats and three adopted dogs.&lt;ref&gt;{{cite web |url=http://focustaiwan.tw/news/aipl/201606260009.aspx |title=U.S. representative welcomes Tsai in Miami, voices support for Taiwan |first1=Tony |last1=Liao |first2=Sophia |last2=Yeh |first3=Elizabeth |last3=Hsu |website=Focus Taiwan |publisher=Central News Agency |date=26 June 2016 |accessdate=27 June 2016}}&lt;/ref&gt;
+
+===Three dogs – Bella, Bunny and Maru===
+[[File:05.20 總統出席「2017和你一起永和寓所童樂會」，向小朋友介紹她的寵物家人，同時也是官邸的主人：Bella、Bunny、Maru等3隻退役導盲犬及貓咪蔡想想 (33960196293).jpg|thumb|Tsai introducing the dogs to children at the Yongyou Residence Children's Club in 2017.]]
+After first being sworn in as president, Tsai also announced plans to adopt three retired [[guide dog]]s once she moves into her [[Official Residence of the President of the Republic of China|official residence]].&lt;ref name="straitstimes2"&gt;{{cite news |url=http://www.straitstimes.com/asia/east-asia/taiwans-cat-loving-president-tsai-ing-wen-to-adopt-3-retired-guide-dogs |title=Taiwan's cat-loving President Tsai Ing-wen to adopt 3 retired guide dogs |newspaper=The Straits Times |date=26 May 2016 |accessdate=18 June 2016}}&lt;/ref&gt; The media in Taiwan asked Tsai whether she anticipated any conflict with her cats, but she said that the dogs "are very well trained and they can definitely get along with the cats".&lt;ref name="straitstimes2"/&gt;
+
+Other observers attempted to draw parallels with Taiwan's political situation. Alex Lo, writing in Hong Kong's ''[[South China Morning Post]]'', has suggested that Tsai's adoption of the dogs is a good sign for relations between Taiwan and [[Mainland China]].&lt;ref name="SCMP2"&gt;{{cite web |url=http://www.scmp.com/comment/insight-opinion/article/1956856/tale-cats-dogs-and-cross-strait-relations |title=A tale of cats, dogs and cross-strait relations |first=Alex |last=Lo |newspaper=South China Morning Post |date=27 May 2016 |accessdate=19 June 2016}}&lt;/ref&gt; He proposes that the Taiwanese are 'cat people', while the mainland Chinese are 'dog people' – citing a psychological study indicating cat lovers are 11 per cent more open to 'unusual ideas', while dog people are more 'conventional and traditional'.&lt;ref name="SCMP2"/&gt; In Singapore, ''[[The Straits Times]]'' dismissed as media speculation any suggestion of a 'civil war' between Tsai's cats and dogs.&lt;ref&gt;{{cite news |url=http://www.straitstimes.com/asia/east-asia/taiwans-cat-loving-president-to-adopt-dogs-too |title=Taiwan's cat-loving President to adopt dogs too |newspaper=The Straits Times |date=26 May 2016}}&lt;/ref&gt;
+
+Tsai adopted the dogs in October 2016, and their names are Bella, Bunny and Maru. She signed their adoption papers at a ceremony organised by the Huikuang Guide Dog Foundation, where she vowed to improve the barrier-free environment for visually impaired people and their seeing-eye dogs.&lt;ref&gt;{{cite web|url=http://www.taipeitimes.com/News/lang/archives/2016/11/03/2003658436 |title=President Tsai adopts three retired guide dogs 蔡英文總統 收養三隻退役導盲犬 |publisher=Taipei Times |date=2017-01-14 |accessdate=2017-01-20}}&lt;/ref&gt; Of the three dogs, Tsai has described Bella as her favourite; while Bunny is 'elegant' and Maru is 'timid'.&lt;ref&gt;{{Cite web|title=獨／蔡英文形容3愛犬：Maru最膽小、Bella最愛吃、Bunny最優雅 {{!}} ETtoday新聞雲|url=https://www.ettoday.net/news/20190207/1371858.htm|access-date=2020-07-13|website=www.ettoday.net|language=zh-Hant}}&lt;/ref&gt;
+
+==Election campaigns==
+=== 2015–2016 ===
+&lt;!-- Deleted image removed: [[File:Tsai Ing-wen with Think Think and Ah Tsai.jpg|thumb|right|Imagery of Think Think (left) and Ah Tsai (right) appeared in Tsai's 2016 social media and election campaigning.&lt;ref name="focustaiwan1"&gt;{{cite web |url=http://focustaiwan.tw/news/aipl/201510110006.aspx |title=Campaign focuses on Tsai Ing-wen's pets |first1=S.P. |last1=Yeh |first2=Lillian |last2=Lin |website=Focus Taiwan |publisher=[[Central News Agency (Taiwan)|Central News Agency]] |date=11 October 2015 |accessdate=18 June 2016}}&lt;/ref&gt;]] --&gt;{{Main|2016 Taiwanese presidential election}}
+
+Think Think and Ah Tsai featured as part of Tsai's presidential campaign in 2015 and 2016,&lt;ref name="focustaiwan1"&gt;{{cite web |url=http://focustaiwan.tw/news/aipl/201510110006.aspx |title=Campaign focuses on Tsai Ing-wen's pets |first1=S.P. |last1=Yeh |first2=Lillian |last2=Lin |website=Focus Taiwan |publisher=[[Central News Agency (Taiwan)|Central News Agency]] |date=11 October 2015 |accessdate=18 June 2016}}&lt;/ref&gt; with the press sometimes referring to her as 'Cat Woman'.&lt;ref name="SCMP1"&gt;{{cite news |url=http://www.scmp.com/news/china/policies-politics/article/1902288/cat-woman-taiwans-first-female-president-huge-fan |title=Cat Woman: Taiwan's first female president huge fan of felines |first=Nectar |last=Gan |newspaper=[[South China Morning Post]] |date=18 January 2016 |accessdate=18 June 2016}}&lt;/ref&gt; During the campaign, Tsai's Facebook pages on cat-related topics received many more hits than pages discussing policy issues – with the rate of 'likes' being up to 50 percent higher.&lt;ref name="focustaiwan1" /&gt;
+
+A page showing Ah Tsai receiving a vaccination on [[World Animal Day]] was especially popular, with nearly 30,000 'likes' (as of October 2015).&lt;ref name="focustaiwan1"/&gt; Her campaign team produced an animated film, ''Cat in a Paper Carton – Think Think''; and the feline also appeared in ''Light up Taiwan'', a book outlining Tsai's political views.&lt;ref name="focustaiwan1"/&gt;
+
+Tsai's love of cats is well known among her supporters, and young people in particular are fans of the two cats.&lt;ref&gt;{{cite news |first=Chew |last=Hui Min |url=http://www.straitstimes.com/asia/east-asia/taiwans-first-woman-president-10-things-you-should-know-about-tsai-ing-wen |title=Taiwan's first woman president: 10 things you should know about Tsai Ing-wen |newspaper=[[The Straits Times]] |date=20 May 2016 |accessdate=18 June 2016}}&lt;/ref&gt; Her [[Chinese New Year]] video message in 2015 included a grey tabby cat  trying to break free from her arms.&lt;ref name="SCMP1"/&gt; As part of her campaign, Tsai and her cats were transformed into [[anime]] video characters.&lt;ref&gt;{{cite web |url=http://en.rocketnews24.com/2016/01/19/taiwans-president-elect-tsai-ing-wen-appears-as-cute-moe-anime-girl-in-awesome-campaign-videos/ |first=Oona |last=McGee |title=Taiwan's president-elect Tsai Ing-wen appears as cute moe anime girl in awesome campaign videos |website=RocketNews24 |date=19 January 2016 |accessdate=20 June 2016}}&lt;/ref&gt; The animated cartoon was not in [[Taiwanese Mandarin|Mandarin]], the language promoted by the ROC government for decades, but [[Taiwanese Hokkien|Taiwanese]], a language which was once scorned by Tsai's opponents, the previously dominant [[Kuomintang|Kuomintang (KMT)]].&lt;ref name="economist1"&gt;{{cite news |url=https://www.economist.com/news/asia/21702223-taiwans-obsession-japanese-kawaii-culture-hello-kitty-goodbye-panda |title=Hello Kitty, goodbye panda |newspaper=[[The Economist]] |date=16 July 2016 |accessdate=16 July 2016}}&lt;/ref&gt;
+
+Davina Tham of the ''[[Taipei Times]]'' said that Tsai personifies the nation's attitudes toward women in power.&lt;ref name="auto7"&gt;{{Cite web|date=2019-02-14|title=Boom, zap, pow: Tsai Ing-wen saves the day - Taipei Times|url=https://www.taipeitimes.com/News/feat/archives/2019/02/14/2003709694|access-date=2020-07-26|website=www.taipeitimes.com}}&lt;/ref&gt; Tham cites a comic strip created in 2016 by "Stupid Sheep" called ''Presidential Slave to Cats'', portraying a cartoon likeness of Tsai juggling presidential duties with her devotion to Think Think and Ah Tsai.&lt;ref name="auto7"/&gt; Tham also cites another cartoonist, Wei Tsung-cheng, who created ''Conquerer of the Seas'', which portrays a young girl named Ing who grows up on a patriarchal island-nation; and overthrows oppressive forces which terrorise her people.&lt;ref name="auto7"/&gt;
+
+Celebrating Tsai's election victory, the national postal agency, [[Chunghwa Post|Chunghua Post]], created a special stamp issue. It featured people from all walks of life, along with a dog and a cat; and drew attention to issues of equality and cultural diversity in Taiwan.&lt;ref name="auto3"&gt;{{Cite web|last=中華郵政|date=2016-01-13|title=中華郵政全球資訊網|url=https://www.post.gov.tw/post/internet/W_stamphouse/index_en.jsp?ID=2807&amp;file_name=B332&amp;stamp_cat_standard=Commemorative%20Stamps&amp;type=2805|access-date=2020-07-09|website=中華郵政}}&lt;/ref&gt; The pixelated faces of the President and Vice President were intended to express the idea that these are individuals who embody the collective spirit and style of the nation.&lt;ref name="auto3"/&gt; Other icons represented various occupations, genders, social roles and ethnic groups.&lt;ref name="auto3"/&gt; It was the first ever Taiwanese stamp not to feature the national flag.&lt;ref&gt;{{Cite web|date=2016-04-22|title=New Stamps Celebrating Taiwan President Tsai Ing-wen|url=http://www.trickytaipei.com/tsai-ing-wen-stamps/|access-date=2020-07-08|website=Tricky Taipei|language=en-US}}&lt;/ref&gt;
+
+=== 2020 ===
+{{Main|2020 Taiwanese presidential election}}
+Tsai's re-election campaign made use of both cat and dog imagery.&lt;ref&gt;{{Cite web|first=|last=|date=2020-01-11|title=Taiwan's president sweeps to reelection, setting the stage for chilly relations with China|url=https://www.latimes.com/world-nation/story/2020-01-11/taiwans-president-sweeps-to-re-election-setting-the-stage-for-chilly-relations-with-china|access-date=2020-07-08|website=Los Angeles Times|language=en-US}}&lt;/ref&gt; Also included were videos of her frolicking with the two cats and three dogs.&lt;ref&gt;{{Cite magazine|title=Taiwan's Tsai Ing-wen Seeks Re-Election in the Last Truly Free Place in the Chinese-Speaking World|url=https://time.com/5762023/tsai-ing-wen-preserve-taiwan-democracy/|access-date=2020-07-08|magazine=Time}}&lt;/ref&gt; ''[[Taiwan News]]'' called one of her cats the "purrfect" running mate, and her supporters wore T-shirts calling the President a "slave to cats".&lt;ref&gt;{{Cite web|title=Photo of the Day: Taiwan president's purrfect running mate|url=https://www.taiwannews.com.tw/en/news/3819487|access-date=2020-07-08|website=Taiwan News|date=18 November 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news |url=https://www.washingtonpost.com/world/as-taiwan-goes-to-the-polls-tsai-says-the-choice-is-between-democracy-or-dictatorship/2020/01/07/2119a620-310a-11ea-971b-43bec3ff9860_story.html |title=As Taiwan goes to the polls, Tsai says the choice is democracy or dictatorship |date=2020-01-08 |orig-date=2020-01-07 |author1=Anna Fifield |newspaper=[[The Washington Post]] |place=Washington, D.C. |issn=0190-8286 |oclc=1330888409}}{{WaPoCheckDates}}&lt;/ref&gt; A campaign store was set up, where visitors could take selfies with Tsai's dogs.&lt;ref name="auto5"&gt;{{Cite web|last=Hioe|first=Brian|date=2020-01-08|title=Aesthetics and Politics in 2020 Elections|url=https://newbloommag.net/2020/01/09/aesthetics-politics-2020/|access-date=2020-07-09|website=New Bloom Magazine|language=en-US}}&lt;/ref&gt;
+
+Tsai appeared wearing a pair of pink cat ears in a DPP campaign rally advertisement, which was posted on social media by [[Freddy Lim]], frontman of [[death metal]] band [[Chthonic (band)|Chthonic]], and also himself a politician.&lt;ref&gt;{{Cite web|title=Photo of the Day: Cat ears, cosplay, death metal featured in Taiwan campaign ad|url=https://www.taiwannews.com.tw/en/news/3854070|access-date=2020-07-09|website=Taiwan News|date=10 January 2020}}&lt;/ref&gt; Although Lim is founder of the [[New Power Party]] (NPP), he ran as an independent after a dispute about the NPP's relationship with the ruling [[Democratic Progressive Party|DPP]].&lt;ref name="auto"&gt;{{Cite web|title=Freddy Lim triumphs in Taipei pan-blue bastion|url=https://www.taiwannews.com.tw/en/news/3855115|access-date=2020-07-11|website=Taiwan News|date=11 January 2020}}&lt;/ref&gt; Despite his role as an independent, Lim had been voicing his support for the DPP's Tsai Ing-wen.&lt;ref name="auto"/&gt;
+
+Other publicity material in the Tsai campaign included a pillow in the shape of Taiwan, and  a hot sauce which was a pun on Tsai's "Hot Taiwanese Girl" nickname.&lt;ref name="auto5"/&gt;&lt;ref&gt;{{Cite web|last=Staff|first=T. N. L.|date=2019-12-25|title=Taiwan 2020: How These Politicians Got Their Funny Nicknames|url=https://international.thenewslens.com/feature/taiwan2020/129218|access-date=2020-07-09|website=The News Lens International Edition|language=en}}&lt;/ref&gt;
+
+Tsai was mocked by the Chinese Communist Party for posting a cosplay "magic girls" avatar on Facebook.&lt;ref name="auto2"&gt;{{Cite web|date=2020-01-10|title=Her cat shares her campaign poster but Taiwan's President is anything but soft|url=https://www.abc.net.au/news/2020-01-11/taiwans-iron-cat-lady-tsai-ing-wen-and-her-cute-campaign/11851644|access-date=2020-07-09|website=www.abc.net.au|language=en-AU}}&lt;/ref&gt; However, the [[Australian Broadcasting Corporation]]'s China correspondent [[Bill Birtles]] says that Tsai's "cute" campaign style belies a much harder edge.&lt;ref name="auto2"/&gt; The ''[[The New Daily|New Daily]]'' called her Taiwan's "Iron Cat Lady".&lt;ref&gt;{{Cite web|date=2020-01-10|title=Taiwan's Iron Cat Lady Tsai Ing-wen leads poll results for presidency|url=https://thenewdaily.com.au/news/world/2020/01/11/taiwan-presidential-election-tsai-ing-wen/|access-date=2020-07-09|website=The New Daily|language=en-US}}&lt;/ref&gt;
+
+During the 2020 election, several other politicians associated themselves with animals, pets or [[anime]] characters – such as Lii Wen, who appeared in a video wearing a pair of wings in the shape of [[mussel]]s.&lt;ref name="auto5"/&gt; Writing for ''New Bloom'', Brian Hioe suggested at least one was following Tsai's lead; highlighting main Presidential rival [[Han Kuo-yu]], who appeared with imagery of his pet [[Shiba Inu|Shibu Inu]].&lt;ref name="auto5"/&gt; Taiwan's Digital Minister in charge of Social Innovation, [[Audrey Tang]], says that politicians using internet memes and cat pictures reflects a 'coming out' of digital subcultures.&lt;ref&gt;{{Cite web|date=2020-04-13|title=The civic hacker that became Digital Minister of Taiwan: interview with Audrey Tang|url=https://digitalfuturesociety.com/interviews/the-civic-hacker-that-became-digital-minister-of-taiwan-interview-with-audrey-tang/|access-date=2020-08-03|website=Digital Future Society|language=en-US}}&lt;/ref&gt;
+
+After Tsai was elected to her second term, she was congratulated by the Hong Kong Cat Society, a cat welfare organisation, which issued a statement describing her victory as 'a win for cats'.&lt;ref&gt;{{Cite web|title=【最強貓奴】貓界狂賀蔡英文成功連任 「請台灣第一貓繼續統治台灣」|url=https://hk.appledaily.com/lifestyle/20200112/EGWD257WCZT7YK4RWLDGIG24N4/|access-date=2020-07-26|website=Apple Daily 蘋果日報|language=zh-hk|archive-date=2020-07-26|archive-url=https://web.archive.org/web/20200726120017/https://hk.appledaily.com/lifestyle/20200112/EGWD257WCZT7YK4RWLDGIG24N4/|url-status=dead}}&lt;/ref&gt;
+
+==Feline culture in Taiwan==
+{{Coatrack|section|date=August 2022}}
+[[File:侯硐貓村 Houtong Cat Village - panoramio.jpg|thumb|A street sculpture in Houtong Cat Village]]
+Cats are generally popular as pets in Taiwan, with the cat population increasing rapidly in recent years.&lt;ref name="taiwantoday1"&gt;{{cite web |url=https://taiwantoday.tw/news.php?unit=10&amp;post=21681 |title=Taiwan's love affair with cats purrs ahead |website=[[Taiwan Journal|Taiwan Today]] |date=16 February 2016}}&lt;/ref&gt; The world's first [[cat café]], named "Cat Flower Garden", opened in [[Taipei]] in 1998,&lt;ref&gt;{{cite web |last=Galloway |first=Lindsey |url=http://www.bbc.com/travel/story/20120402-worldwide-weird-feline-fun-in-japans-cat-cafes |title=Travel: Feline fun in Japan's cat cafes |website=[[BBC Worldwide]] |date=3 April 2012 |accessdate=19 June 2016}}&lt;/ref&gt; and by 2016 there was also a "Cathy Hotel" especially for cats.&lt;ref name="taiwantoday1"/&gt; The Taiwanese cat café concept spread to Japan, and later caught on in other countries around the world.&lt;ref&gt;{{cite web |last=Lemmin-Woolfrey |first=Ulrike |url=http://edition.cnn.com/2014/06/16/travel/cat-cafes-world/ |title=Cat-ching! Cat cafes take over world |website=[[CNN.com]] |date=16 June 2014 |accessdate=19 June 2016}}&lt;/ref&gt;
+
+The former mining town of [[Houtong Cat Village|Houtong]] is known as a "cat village", which attracts tourists with its large population of roaming cats.&lt;ref&gt;{{cite news |url=http://www.chinapost.com.tw/taiwan/local/taipei/2013/11/09/393242/Taiwans-cat.htm |title=Taiwan's 'cat village' on CNN list of attractions |newspaper=[[The China Post]] |date=9 November 2013 |accessdate=27 June 2016}}&lt;/ref&gt;
+
+==See also==
+* [[Taiwanese presidential pets]]
+* [[List of individual cats]]
+{{ - }}
+
+== References ==
+{{reflist}}
+
+[[Category:Individual cats in politics]]
+[[Category:Political history of Taiwan]]
+[[Category:2016 animal births]]
+[[Category:2011 animal births]]</text>
+      <sha1>kedy8qkh8003e7etqza1g8vrwonups4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Catmando</title>
+    <ns>0</ns>
+    <id>3854683</id>
+    <revision>
+      <id>1126911418</id>
+      <parentid>1125135505</parentid>
+      <timestamp>2022-12-11T22:31:48Z</timestamp>
+      <contributor>
+        <username>Dawnseeker2000</username>
+        <id>1544984</id>
+      </contributor>
+      <minor/>
+      <comment>/* top */date format audit, minor formatting, [[WP:AWB/T|typo(s) fixed]]: till → until</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5747" xml:space="preserve">{{short description|Cat who served as joint leader of Britain's Official Monster Raving Loony Party (OMRLP)}}
+{{distinguish|Kathmandu}}
+{{Use dmy dates|date=December 2022}}
+{{Infobox officeholder
+| name = Catmando
+| image = Cat Mandu and Howling Laud Hope.jpg
+| caption = Catmando and [[Howling Laud Hope]]
+| party = [[Official Monster Raving Loony Party]]
+| birth_date = 1995
+| birth_place = [[Mytchett]], [[Surrey]], England
+| nationality = [[England|English]]
+| office = Leader of the [[Official Monster Raving Loony Party]]
+| alongside = [[Howling Laud Hope]]
+| predecessor = [[Screaming Lord Sutch]]
+| termstart = 1999
+| termend = 2002
+[[Death in office|†]]
+| death_date = 2002 (aged 7)
+}}'''Catmando''' (1995–2002; also spelt "'''Cat Mandu'''"&lt;ref name="RealSpell"&gt;[https://www.youtube.com/watch?v=zDt-n0pNCQA HOWLING LAUD HOPE Pt 7 – Catmando (Cat Mandu) – The real spelling] YouTube, 30 November 2010; retrieved 1 December 2010&lt;/ref&gt;) was a cat who was named "joint leader" of Britain's [[Official Monster Raving Loony Party]] (OMRLP) from 1999 to 2002, along with his owner, party chairman [[Howling Laud Hope]].&lt;ref name="owner"&gt;{{cite news
+|title = POLITICAL CAT FIGHT ENDS IN DRAW FOR LOONIES
+|newspaper =Toronto Star
+|date = 25 September 1999
+|url = http://www.lexisnexis.com/us/lnacademic/results/docview/docview.do?docLinkInd=true&amp;risb=21_T9112542792&amp;format=GNBFI&amp;sort=RELEVANCE&amp;startDocNo=1&amp;resultsUrlKey=29_T9112542798&amp;cisb=22_T9112542797&amp;treeMax=true&amp;treeWidth=0&amp;csi=8286&amp;docNo=1
+|accessdate = 18 April 2010}}{{dead link|date=January 2013}}&lt;/ref&gt; He died in 2002 serving as leader until his death.
+
+==Political career==
+Following the 1999 death of the party's founder, [[Screaming Lord Sutch]], the OMRLP held a leadership election with Alan "Howling Laud" Hope (who was then the party's chairman and deputy leader) and Catmando as the only two candidates. The vote was a tie, with Hope and Catmando each receiving 125 votes. Hope, as the party chairman, had the deciding vote, and decided that he and Catmando should serve as joint leaders.&lt;ref name=SamStall&gt;Stall, Sam (2007); ''100 Cats Who Changed Civilization: History's Most Influential Felines'', pp.69,70. Quirk Books. {{ISBN|1-59474-163-8}}&lt;/ref&gt;&lt;ref&gt;[http://news.bbc.co.uk/2/hi/uk_news/politics/455323.stm Loonies choose cat as joint leader], BBC News, 24 September 1999&lt;/ref&gt;
+
+During Catmando's time as joint leader, the OMRLP saw its greatest electoral performance to date, fielding 15 candidates in the [[2001 United Kingdom general election|2001 general election]]. Catmando served as joint leader until his death as a result of a traffic accident in July 2002. Hope then became the party's sole leader.&lt;ref&gt;{{cite news |first= Sholto |last= Byrnes |title=The lunatic fringe |work=The Independent |date=6 October 2004 |url=https://www.independent.co.uk/news/uk/politics/the-lunatic-fringe-535650.html |accessdate=26 December 2010 }}&lt;/ref&gt;
+
+Following Catmando's death, the party proposed that there should be cat-crossings on all major roads.&lt;ref&gt;{{cite news
+|first= Jack 
+|last= Malvern
+|title = Mandu
+|work= The Times
+|date = 7 August 2002
+|url = http://www.lexisnexis.com/us/lnacademic/results/docview/docview.do?docLinkInd=true&amp;risb=21_T9112542792&amp;format=GNBFI&amp;sort=RELEVANCE&amp;startDocNo=1&amp;resultsUrlKey=29_T9112542798&amp;cisb=22_T9112542797&amp;treeMax=true&amp;treeWidth=0&amp;csi=10939&amp;docNo=25
+|accessdate = 18 April 2010
+}}{{dead link|date=January 2013}}&lt;/ref&gt;
+
+==Name origins==
+Catmando was originally called "'''Catman'''". His name was changed after a customer at the Golden Lion (Hope's [[public house|pub]] and [[guesthouse]] in [[Ashburton, Devon]]) asked a music question that Hope could not answer; the customer commented: "I bet Catman do [know the answer]". Consequently, he became "'''Catmando'''".{{citation needed|date=January 2017}}
+
+The cat later moved with Hope to the Dog and Partridge public house in [[Yateley]], Hampshire. [[Gurkha]]s, stationed nearby at [[Aldershot Garrison|Aldershot]], were intrigued by a name that sounded like the [[Nepal]]ese capital [[Kathmandu]]; subsequently the cat became the subject of a front-page feature in the ''[[Nepali Times]]''. The "Cat Mandu" spelling became common through media misinterpretation, but Hope has confirmed that "Catmando" is the correct spelling.&lt;ref name=RealSpell/&gt;
+
+One of the OMRLP proposed laws is that no other cat shall be called "Catmando", as there can only be one.{{citation needed|date=January 2017}}
+
+==See also==
+*[[Non-human electoral candidates]]
+*[[List of individual cats]]
+
+==References==
+{{Reflist}}
+
+==External links==
+* [https://www.theguardian.com/gallery/image/0,8543,-10504199264,00.html The 2001 Election in Pictures: Laud Hope and Cat Mandu] ''The Guardian'', 21 May 2001
+* [https://www.independent.co.uk/news/publican-shares-loony-leaders-role-with-a-cat-1121641.html Publican shares Loony leader's role with a cat] ''The Independent'', 25 September 1999
+* [https://www.theguardian.com/politics/2001/may/21/election2001.uk3 Cat pushes for prime minister] ''guardian.co.uk'', 21 May 2001
+* [http://news.bbc.co.uk/1/hi/uk_politics/455323.stm Loonies choose cat as joint leader] BBC News, 24 September 1999
+
+{{S-start}}
+{{S-ppo}}
+{{S-bef|before=[[Screaming Lord Sutch]]}}
+{{S-ttl|title=[[Official Monster Raving Loony Party]] Leader|years=1999–2002|with=[[Howling Laud Hope]]}}
+{{S-aft|after=[[Howling Laud Hope]]}}
+{{S-end}}
+
+{{Monster Raving Loony Party politicians}}
+
+[[Category:1995 animal births]]
+[[Category:2002 animal deaths]]
+[[Category:Individual cats in politics]]
+[[Category:Official Monster Raving Loony Party politicians]]
+[[Category:Road incident deaths in England]]
+[[Category:Cats in the United Kingdom]]
+[[Category:Individual animals in England]]</text>
+      <sha1>i6kfw5v732khbaisr40d78ic8pl0pgi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Freya (cat)</title>
+    <ns>0</ns>
+    <id>37247055</id>
+    <revision>
+      <id>1113778552</id>
+      <parentid>1113734799</parentid>
+      <timestamp>2022-10-03T06:26:29Z</timestamp>
+      <contributor>
+        <username>PizzaKing13</username>
+        <id>30380342</id>
+      </contributor>
+      <comment>Undid revision 1113734799 by [[Special:Contributions/2601:47:4380:AFD8:977:21E3:7FB3:ABF2|2601:47:4380:AFD8:977:21E3:7FB3:ABF2]] ([[User talk:2601:47:4380:AFD8:977:21E3:7FB3:ABF2|talk]])</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6378" xml:space="preserve">{{short description|Chief Mouser to the Cabinet Office}}
+{{EngvarB|date=April 2016}}
+{{Use dmy dates|date=April 2016}}
+{{Infobox politician
+| name          = Freya
+| image         = Freya the cat-20120615 132253 (cropped).jpg
+| imagesize     = 
+| alt           = 
+| caption       =
+| office        = [[Chief Mouser to the Cabinet Office]]
+| monarch       = [[Elizabeth II]]
+| primeminister = [[David Cameron]]
+| term_start    = 16 September 2012
+| term_end      = 9 November 2014
+| term_label    = In role
+| predecessor   = [[Sybil (cat)|Sybil]] (2009)
+| successor     = [[Larry (cat)|Larry]]
+| blank1 = Gender
+| data1 = Female 
+| birth_date    = {{circa}} {{birth year and age|2009|4}}
+| birth_place   = London
+| blank2 = Owned by
+| data2 = [[George Osborne]]
+| occupation    = [[wiktionary:mouser|Mouser]]
+| blank3        = Namesake
+| data3         = [[Freyja]]
+}}
+
+'''Freya''' (born {{circa}} April 2009) is a [[tabby cat]] owned by the former [[Chancellor of the Exchequer]] of the United Kingdom [[George Osborne]] and his family.&lt;ref name="independent"&gt;{{cite news |last1=Dearden |first1=Lizzie |title=George Osborne's family cat Freya sent away from Downing Street to Kent |url=https://www.independent.co.uk/news/uk/politics/george-osborne-s-family-cat-freya-sent-away-downing-street-kent-9849853.html |work=The Independent |access-date=13 November 2020 |date=9 November 2014}}&lt;/ref&gt;
+
+Freya went missing from the Osbornes' house in [[Notting Hill]] when she was just a few months old, and after searching West London for her, the family assumed she had died or had become lost. In June 2012, Osborne's wife received a call telling her that Freya was alive, and the family brought her home. In September 2012, Freya shared the role of [[Chief Mouser to the Cabinet Office]] with the Downing Street cat [[Larry (cat)|Larry]]. In November 2014, Freya was retired from the position to the Kent countryside.
+
+==Career==
+[[File:Tabby cat photo.jpg|thumb|left|Freya at [[10 Downing Street|Number 10]]]]
+On 16 September 2012, Nigel Nelson from ''[[The People]]'' reported the Prime Minister [[David Cameron]] had sacked Larry from his position as [[Chief Mouser to the Cabinet Office]] and installed Freya instead.&lt;ref name="Nelson"&gt;{{cite news|url=http://www.people.co.uk/news/uk-world-news/2012/09/16/larry-the-downing-st-cat-shunted-by-pm-for-being-a-uselss-mouse-catcher-102039-23926241/|title=Larry the Downing St cat shunted by PM for being a useless mouse catcher|last=Nelson|first=Nigel|date=16 September 2012|work=[[The People]]|publisher=[[Trinity Mirror]]|access-date=16 September 2012}}&lt;/ref&gt; Nelson revealed that Cameron had become fed up with Larry's laziness.&lt;ref name="Nelson"/&gt;
+
+Cameron decided to replace Larry when he refused to move from his chair to chase a mouse on September 13.&lt;ref name="Nelson"/&gt; Nelson explained, "The final straw came on Thursday when Mr Cameron caught Larry cat-napping on his chair in his No.10 study as another mouse scurried across the room. When he tried to wake Larry to do his duty one eye opened but the moggy wouldn't budge."&lt;ref name="Nelson"/&gt;
+
+Cameron drafted in Freya to patrol Numbers 10, 11 and 12 Downing Street as she is a "tougher" and a "more street-wise predator."&lt;ref name="Nelson"/&gt; Freya was reported to be the more dominant cat over Larry and a more effective mouser, reportedly because her days as a stray had "hardened" her.&lt;ref&gt;{{cite news|last=Parkinson|first=Justin|title=Downing Street denies Cameron and Osborne cat feud|url=https://www.bbc.co.uk/news/uk-politics-19967916|access-date=16 October 2012|newspaper=BBC|date=16 October 2012}}&lt;/ref&gt;
+
+Freya has become one of 100,000 cats employed by the Government to keep the number of mice down.&lt;ref&gt;{{cite news|url=https://www.telegraph.co.uk/culture/qi/9324776/QI-Quite-interesting-facts-about-cats.html|archive-url=https://web.archive.org/web/20120612063302/http://www.telegraph.co.uk/culture/qi/9324776/QI-Quite-interesting-facts-about-cats.html|url-status=dead|archive-date=12 June 2012|title=QI: Quite interesting facts about cats|first=Molly|last=Oldfield|author2=Mitchinson, John|date=11 June 2012|work=[[The Daily Telegraph]]|access-date=14 September 2012}}&lt;/ref&gt; On 16 October 2012, police had to break up a fight between Larry and Freya outside Number 10. Rosa Prince from ''[[The Daily Telegraph]]'' reported that Freya "appeared to have the best of the confrontation".&lt;ref&gt;{{cite news|author1=Rosa Prince|title=Police called to break up violent cat fight in Downing Street|url=https://www.telegraph.co.uk/news/politics/david-cameron/9611897/Police-called-to-break-up-violent-cat-fight-in-Downing-Street.html|access-date=1 November 2014|newspaper=[[The Daily Telegraph]]|date=16 October 2012}}&lt;/ref&gt; The [[Prime Minister of the United Kingdom|Prime Minister]]'s spokeswoman stated that Freya and Larry were able to "co-exist" and added that she would not comment further on the two cats' adventures.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-politics-19967916|title=Downing Street denies Cameron and Osborne cat feud|last=Parkinson|first=Justin|date=16 October 2012|work=[[BBC News]]|publisher=[[BBC]]|access-date=16 October 2012}}&lt;/ref&gt;
+
+In May 2014, Freya strayed over a mile from Downing Street and had to be rescued and returned by a charity worker.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-politics-27601264|title=George Osborne's cat rescued by homelessness worker|work=BBC News|date=28 May 2014 |access-date=30 July 2015}}&lt;/ref&gt; In August 2014, Freya was hit by a car in Whitehall and was subsequently treated by a vet. George Osborne said he was "very grateful" to those who came to the aid of his pet.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-politics-28710522|title=Chancellor George Osborne's cat Freya hit by car|work=BBC News|date=8 August 2014 |access-date=30 July 2015}}&lt;/ref&gt;  Following these events, Freya was sent to the Kent countryside to allow her to exercise her desire to roam.&lt;ref name="independent"/&gt;
+
+==See also==
+*[[List of individual cats]]
+*[[Freyja|Freya]], Norse goddess (namesake)
+
+==References==
+{{Reflist}}
+
+{{Chief Mouser to the Cabinet Office}}
+
+{{DEFAULTSORT:Freya (cat)}}
+[[Category:Individual cats]]
+[[Category:Individual cats in politics]]
+[[Category:2009 animal births]]
+[[Category:Cats in the United Kingdom]]
+[[Category:Individual animals in England]]
+[[Category:Working cats]]</text>
+      <sha1>szb2wftcpssqyigwv272nlu1x093bes</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gladstone (cat)</title>
+    <ns>0</ns>
+    <id>51196720</id>
+    <revision>
+      <id>1126074035</id>
+      <parentid>1124878477</parentid>
+      <timestamp>2022-12-07T10:49:34Z</timestamp>
+      <contributor>
+        <username>OGBC1992</username>
+        <id>19300763</id>
+      </contributor>
+      <comment>added [[Category:Working cats]] using [[WP:HC|HotCat]]</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10754" xml:space="preserve">{{Short description|Chief Mouser of HM Treasury at Whitehall}}
+{{Infobox officeholder
+| name                = Gladstone
+| image               = Gladstone a year in Treasury (1).jpg
+| imagesize           = 
+| alt                 = 
+| caption             = Gladstone in 2017
+| office              = Chief Mouser to [[HM Treasury]]
+| monarch             = [[Elizabeth II]]&lt;br/&gt;[[Charles III]]
+| primeminister       = [[David Cameron]]&lt;br /&gt;[[Theresa May]]&lt;br /&gt;[[Boris Johnson]]&lt;br/&gt;[[Liz Truss]]&lt;br/&gt;[[Rishi Sunak]]
+| chancellor          = [[George Osborne]]&lt;br /&gt;[[Philip Hammond]]&lt;br /&gt;[[Sajid Javid]]&lt;br /&gt;[[Rishi Sunak]]&lt;br /&gt;[[Nadhim Zahawi]]&lt;br /&gt;[[Kwasi Kwarteng]]&lt;br /&gt;[[Jeremy Hunt]]
+| term_start          = 28 June 2016
+| term_end            = 
+| alongside           = 
+| predecessor         = ''Position established''
+| successor           = 
+| occupation          = Mouser
+| nationality         = British
+| birth_date          = c. {{birth year and age|2014|12}}
+| birth_place         = [[London]], England
+| relations           = 
+}}
+'''Gladstone''' is a British cat who is the resident chief [[wiktionary:mouser|mouser]] to [[HM Treasury]] in [[Whitehall]], [[London]]. He is a [[domestic short-haired cat]], who, at eighteen months old, assumed the position of chief mouser in late June 2016. Gladstone's political namesake is former Chancellor and Prime Minister [[William Ewart Gladstone]], who served for four separate periods, more than any other Chancellor. Gladstone is responsible for catching mice at the Treasury's 1 [[Horse Guards Road]] building.&lt;ref name="BBC"&gt;{{cite news|url=https://www.bbc.co.uk/news/uk-politics-36924449|title=Gladstone the cat lands Treasury job|work=BBC News|date=29 July 2016|access-date=29 July 2016}}&lt;/ref&gt;
+
+The inception of the position of chief mouser at the Treasury followed the creation of similar positions at [[10 Downing Street]] (Chief Mouser to the Cabinet Office) and the [[Foreign Office]]; those positions were held by [[Larry (cat)|Larry]] and [[Palmerston (cat)|Palmerston]], as of July 2016. The decision to introduce an official mouser was taken by [[John Kingman (businessman)|John Kingman]], former acting Permanent Secretary at the Treasury. The appointment of Gladstone as "Chief Mouser to the Treasury" was officially announced on 29 July 2016.&lt;ref&gt;{{cite news|url=http://www.itv.com/news/2016-07-29/meet-gladstone-the-new-treasury-cat/|title=Gladstone named Treasury's chief mouser amid cat spat|work=ITV News|date=29 July 2016|access-date=29 July 2016}}&lt;/ref&gt;
+
+Gladstone was taken to his new home at the Treasury in late June 2016, but the fallout from the [[2016 United Kingdom European Union membership referendum|referendum on European Union membership]] delayed the public announcement until late July.&lt;ref name="BF"&gt;{{cite web|last1=Ashton|first1=Emily|title=Now The Treasury Has Got A Cat And He's Called Gladstone|url=https://www.buzzfeed.com/emilyashton/glad-to-meet-you|website=BuzzFeed}}&lt;/ref&gt;
+
+==Early life==
+[[File: Chancellor Javid and Gladstone.jpg|thumb|right|Former chancellor [[Sajid Javid]] and Gladstone (2019).]]
+Gladstone was brought in by a staff member of [[Battersea Dogs &amp; Cats Home]] Lost and Found team in May 2016 as a neglected stray, after trying to get into his [[Cat-flap|cat flap]] for a few weeks.&lt;ref&gt;{{cite web|url=https://www.instagram.com/p/BIcuFWmgz-f// |archive-url=https://ghostarchive.org/iarchive/s/instagram/BIcuFWmgz-f |archive-date=2021-12-26 |url-access=registration|title=Gladstone @treasury_cat Instagram Rescue Story|access-date=29 July 2016}}{{cbignore}}&lt;/ref&gt; He had been wandering the streets of London, hungry and without a [[Microchip implant (animal)|microchip]], so that his owners could not be located. At Battersea, he was known as Timmy.&lt;ref&gt;{{cite web|last1=Watts|first1=Joseph|title=Cat's out of the bag as Treasury reveals Whitehall arrival Gladstone|url=https://www.standard.co.uk/news/uk/cat-s-out-of-the-bag-as-treasury-reveals-whitehall-arrival-gladstone-a3307456.html|website=Evening Standard|date=29 July 2016}}&lt;/ref&gt; Like many homeless cats without daily access to food and water, he would eat too much, too quickly. A special activity puzzle feeder remedied this issue.&lt;ref name="BF"/&gt;
+
+==Career==
+Within 48 hours of moving in, Gladstone made his first catch.&lt;ref&gt;{{cite web|url=http://www.hmtreasurycareers.co.uk/insights/2016/07/gladstone|title=Treasury Life Gladstone, the Treasury cat - One of our newest staff members|access-date=19 July 2016|archive-url=https://web.archive.org/web/20161010222540/http://www.hmtreasurycareers.co.uk/insights/2016/07/gladstone/|archive-date=10 October 2016|url-status=dead}}&lt;/ref&gt; Described{{by whom|date=February 2020}} as "a cold-blooded killer", he went on to register six catches in his first three months in office.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/politics/2016/dec/09/cabinet-office-gets-two-new-cats-uk-government|title=Mew-turn by Cabinet Office as the government gets two new cats|work=The Guardian|access-date=9 Dec 2016}}&lt;/ref&gt; Food for Gladstone is taken care of by Treasury staff, who volunteer the modest sums required for his daily needs. At weekends, the Treasury's facilities and security team look after his domestic needs and personal protection.&lt;ref&gt;{{cite web|url=https://www.buzzfeed.com/emilyashton/glad-to-meet-you|title=Mew-turn by Cabinet Office as government gets two new cats|work=Buzzfeed.com|access-date=9 Dec 2016}}&lt;/ref&gt; His employment is at no cost to taxpayers.&lt;ref&gt;{{cite news|url=https://www.theguardian.com/politics/2016/jul/29/gladstone-cat-treasury-pr-mousecatcher-instagram|title=Now The Treasury Has Got A Cat And He's Called Gladstone|work=The Guardian|access-date=29 July 2016}}&lt;/ref&gt;
+
+===Recognition===
+[[File:HM Treasury and Gladstone wish everyone a merry X'mas.jpg|thumb|Gladstone sitting on a table on 2018 [[Christmas Eve]]]]
+On 28 July 2017, Gladstone celebrated his first anniversary at [[HM Treasury]]. A few days after his debut on Instagram in July 2016, he had 1,200 followers.&lt;ref&gt;{{cite web|url=https://www.theguardian.com/politics/2016/jul/29/gladstone-cat-treasury-pr-mousecatcher-instagram|title=Gladstone the cat gives Treasury some paws for thought|website=[[TheGuardian.com]] |date=29 July 2016|access-date=29 July 2016}}&lt;/ref&gt; 103 picture posts later; currently{{when|date=August 2022}} the number is over 10,000. 'A cat's life – after a year in the spotlight, Gladstone sets the record straight', details his life at the Treasury. To date,{{when|date=August 2022}} Gladstone's number of mice caught is 22.&lt;ref&gt;{{cite web|url=https://social.shorthand.com/hmtreasury/jC3nNs0vau3/a-cats-life|title=Gladstone sets the record straight|access-date=28 July 2017}}&lt;/ref&gt;
+
+==In popular culture==
+Gladstone has a social media presence on an official [[Instagram]] page, and has been reported on by media outlets as far away as [[Northern Ireland]].&lt;ref&gt;{{cite web|url=http://www.irishnews.com/magazine/daily/2017/06/08/news/move-over-dogs-at-polling-stations-because-this-year-cats-refuse-to-be-outdone-1049176/|title=The Irish News: Move over dogs at polling stations, because this year cats refuse to be outdone|date=8 June 2017|access-date=8 June 2017}}&lt;/ref&gt; A parody account @TreasuryMog, also exists on Twitter.&lt;ref&gt;{{cite web|url=https://twitter.com/treasurymog?lang=en|title=Gladstone @TreasuryMog Twitter Page|access-date=29 July 2017}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.instagram.com/p/BIcVbKeAAfk/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BIcVbKeAAfk |archive-date=2021-12-26 |url-access=registration|title=Official @treasury_cat Instagram: You know you're famous when you already have fake Twitter accounts. *inactive Twitter screen shot @TreasuryMog is correct 2017|access-date=29 July 2016}}{{cbignore}}&lt;/ref&gt; He often receives trinkets such as cat toys, [[Christmas]] baubles from [[Brazil]],&lt;ref&gt;{{cite web|url=https://www.instagram.com/p/BOSZBRnAg9W/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BOSZBRnAg9W |archive-date=2021-12-26 |url-access=registration|title=@treasury_cat Instagram Brazilian Fan Christmas Gifts|access-date=21 Dec 2016}}{{cbignore}}&lt;/ref&gt; a personalised collar, and a [[Halloween]] handmade knitted scarf from [[Australia]].&lt;ref&gt;{{cite web|url=https://www.instagram.com/p/BMjWw4SADSE/ |archive-url=https://ghostarchive.org/iarchive/s/instagram/BMjWw4SADSE |archive-date=2021-12-26 |url-access=registration|title=@treasury_cat Instagram Australian Fan Halloween Costume|access-date=8 November 2016}}{{cbignore}}&lt;/ref&gt; He appeared on the Treasury's official YouTube site, in 'Where's Gladstone Gone?', for 2016's Open House London,&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=1qBHH2NGII4|title=Treasury's Youtube: Where's Gladstone gone? 2016 Open House London|website=[[YouTube]] |access-date=12 September 2016}}&lt;/ref&gt; which also appeared on [[Sky News]]. In March 2017, Gladstone was featured in the London ''[[Time Out (magazine)|Time Out]]'' magazine's 'Pet Power List: definitive guide to the political animals of [[Westminster]]'.&lt;ref&gt;{{cite web|url=https://www.timeout.com/london/blog/pet-power-list-time-outs-definitive-guide-to-the-political-animals-of-westminster-032917|title=Pet power list: Time Out's definitive guide to the political animals of Westminster|work=Time Out|access-date=29 March 2017}}&lt;/ref&gt;
+
+==See also==
+*[[Chief Mouser to the Cabinet Office]]
+*[[Palmerston (cat)]], former Chief Mouser to the Foreign &amp; Commonwealth Office
+*[[List of individual cats]]
+
+== External links ==
+* [https://social.shorthand.com/hmtreasury/jC3nNs0vau3/a-cats-life A cat's life - after a year in the spotlight, Gladstone sets the record straight]
+* [https://www.youtube.com/watch?v=1qBHH2NGII4 'Where's Gladstone Gone?' 2016 Open House London Official Video]
+* [https://www.youtube.com/watch?v=pjFblaRtpo4 Gladstone the Cat Becomes 'Chief Mouser' for the Treasury Video]
+* [https://www.instagram.com/treasury_cat/ Gladstone's Official Instagram Page (@treasury_cat)]
+* [https://web.archive.org/web/20170729103243/http://www.hmtreasurycareers.co.uk/insights/2016/07/gladstone HM Treasury Officially Announces Newest Staff Member]
+* [https://www.timeout.com/london/blog/pet-power-list-time-outs-definitive-guide-to-the-political-animals-of-westminster-032917 Pet power list: Time Out's definitive guide to the political animals of Westminster]
+
+== References ==
+{{reflist|2}}
+
+{{s-start}}
+{{s-hon}}
+|-
+{{s-new|title}}
+{{s-ttl| title=Chief Mouser to HM Treasury | years=2016–present}}
+{{s-inc}}
+{{s-end}}
+
+[[Category:2014 animal births]]
+[[Category:Cats in the United Kingdom]]
+[[Category:HM Treasury]]
+[[Category:Individual animals in England]]
+[[Category:Individual cats in politics]]
+[[Category:Working cats]]</text>
+      <sha1>b9yv5ih7shnnkyioyy0dv3i4xbxoq8k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>India (cat)</title>
+    <ns>0</ns>
+    <id>4971438</id>
+    <revision>
+      <id>1122536471</id>
+      <parentid>1117495717</parentid>
+      <timestamp>2022-11-18T03:01:33Z</timestamp>
+      <contributor>
+        <username>Packer1028</username>
+        <id>16495000</id>
+      </contributor>
+      <minor/>
+      <comment>one link per section</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6329" xml:space="preserve">{{short description|Cat owned by US presidential Bush family}}
+{{Infobox animal
+| name                    = India
+| image                   = IndioCat.jpg
+| image_size               = 220px
+| caption                 = India
+| species                 = Cat
+| breed                   = [[American Shorthair]]
+| gender                  = Female
+| birth_date               = July 13, 1990
+| death_date               = {{death date and age|2009|1|4|1990|7|13}}
+| death_place              = [[White House]], Washington, D.C., U.S.
+| owner                   = [[George W. Bush]] and [[Laura Bush]]
+}}
+[[File:Barbara and Jenna Bush with India the Cat.jpg|thumb|Barbara and Jenna Bush with India, 2008]]
+[[File:India the Cat Miss Beazley and Barney Halloween 2007 (cropped).jpg|thumb|India the Cat  in a Halloween  costume, 2007]]
+'''India "Willie" Bush''' (July 13, 1990 – January 4, 2009) was a black [[ Shorthair cat]] owned by former U.S. President [[George W. Bush]] and [[First Lady]] [[Laura Bush]]. She lived with the [[Bush family]] for almost two decades.
+
+==Biography==
+The Bushes acquired India, an all-black, female [[American Shorthair]],&lt;ref name=upi&gt;{{cite news |title='First Feline' India dead at 18 |url=http://www.upi.com/Entertainment_News/2009/01/05/First_Feline_India_dead_at_18/UPI-86721231179731/ |work=[[United Press International]]|date=2009-01-05 |access-date=2009-01-07}}&lt;/ref&gt; in late 1991 or 1992 when their twin daughters [[Barbara Bush (born 1981)|Barbara]] and [[Jenna Bush Hager|Jenna Bush]] were nine years old. India remained with George and Laura Bush once their daughters left for college.&lt;ref name=hc&gt;{{cite news |first=Rick|last=Dunham|title=Dogs overshadow death of Bush family's cat |url=http://www.chron.com/disp/story.mpl/headline/features/6197327.html |work=[[Houston Chronicle]]|date=2009-01-06 |access-date=2009-01-07}}&lt;/ref&gt; The cat moved with the Bushes to the [[White House]] from the [[Texas Governor's Mansion]] in [[Austin, Texas|Austin]] in early 2001 following Bush's inauguration as President.&lt;ref name=hc/&gt;
+
+Despite living at the White House with the First Family, India had been largely overshadowed in the media by two of the Bushes' higher profile [[Scottish terrier]]s, [[Barney (dog)|Barney]] and [[Miss Beazley (dog)|Miss Beazley]]. However, she's seen in the "Barneycam" videos produced by the White House staff around Christmas time, her first being ''Where in the White House is Miss Beazley?'', where she was referred to as "Willie".&lt;ref name=upi/&gt; The dogs received significantly more media attention from the [[White House press corps]] during the [[Presidency of George W. Bush|Bush presidency]].&lt;ref name=hc/&gt;
+
+The Bush family cat made an appearance in the March 2008 ''[[Architectural Digest]]'', as "Willie", in the [[East Sitting Hall]] of the [[White House]].&lt;ref&gt;[http://www.architecturaldigest.com/decor/2008-03/white_house_slideshow "At Home with History in the White House"], Architectural Digest,  March 2008&lt;/ref&gt;
+
+India died at the White House on January 4, 2009, at the age of 18.&lt;ref name=cbs&gt;{{cite news |first=Mark|last=Knoller|title=Death Of A White House Underdog: The Cat |url=http://www.cbsnews.com/blogs/2009/01/05/couricandco/entry4700465.shtml |work=[[CBS News]]|date=2009-01-05 |access-date=2009-01-07}}&lt;/ref&gt;&lt;ref&gt;Gillman, Todd J., [https://web.archive.org/web/20110524133312/http://www.dallasnews.com/sharedcontent/dws/fea/pets/stories/010608dnmetfirstpet.3e6aaec3.html Bush family cat dies at White House] [[Dallas Morning News]], 2009-01-05, retrieved 2009-01-05&lt;/ref&gt; In a [[press release|statement to the press]] regarding India's death, a spokesperson for First Lady observed that the family was "deeply saddened by their cat's death",&lt;ref name=upi /&gt; and went on to say "India was a beloved member of the Bush family for almost two decades. She will be greatly missed."&lt;ref name=upi/&gt;
+
+==Controversy in India==
+There was some controversy reported in [[India]] as some people were upset with the cat's name. In July 2004, demonstrators in the southern Keralian city of [[Thiruvananthapuram]] denounced the cat's name as an insult to the nation of India, and burned an [[effigy]] of President Bush in protest.&lt;ref name=hc /&gt;&lt;ref&gt;{{Cite news|title=Bush's cat India provokes anger |date=3 July 2004 |newspaper=Deccan Herald |url=http://www.deccanherald.com/Archives/july032004/n12.asp |archive-url=https://web.archive.org/web/20070929130408/http://www.deccanherald.com/Archives/july032004/n12.asp |archive-date=29 September 2007|url-status=dead}}&lt;/ref&gt; The Bushes did not change the cat's name in response to the demonstrations,&lt;ref name=hc/&gt; as their cat had been named after the baseball player [[Rubén Sierra]], who was nicknamed "[[Indigenous peoples of the Americas|El Indio]]" during his time with the [[Texas Rangers (baseball)|Texas Rangers]] when Bush owned the team.&lt;ref&gt;{{cite web|url=https://georgewbush-whitehouse.archives.gov/kids/india/index.html |title=India's Official Biography |publisher=Georgewbush-whitehouse.archives.gov |date=2009-01-05 |access-date=2012-11-30}}&lt;/ref&gt; The name "India" had reportedly been given to the family cat by their daughter [[Barbara Bush (born 1981)|Barbara Bush]].&lt;ref name=hc/&gt;
+
+==See also==
+*[[United States presidential pets]]
+*[[List of individual cats]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Commons category|India (cat)}}
+* [https://georgewbush-whitehouse.archives.gov/kids/india/index.html Official Biography at WhiteHouse.gov]
+* [https://web.archive.org/web/20060526131834/http://presidentialpetmuseum.com/Pets/India.htm India at the Presidential Pet Museum]
+
+{{s-start}}
+{{s-hon}}
+{{succession box
+| title = [[United States presidential pets|Chief Mouser of the United States]]
+| before = [[Socks (cat)|Socks]]&lt;br /&gt;{{small|[[Chelsea Clinton]]’s short-haired tabby}}
+| after = [[Willow (Joe Biden's cat)|Willow]]&lt;br /&gt;{{small|[[Joe Biden]]'s short-haired tabby}}
+| years = January 20, 2001&amp;nbsp;– January 4, 2009
+}}
+{{s-end}}
+{{George W. Bush}}
+
+{{DEFAULTSORT:India (Cat)}}
+[[Category:1990 animal births]]
+[[Category:2009 animal deaths]]
+[[Category:George W. Bush administration controversies]]
+[[Category:Cats in the United States]]
+[[Category:Individual cats in politics]]
+[[Category:India–United States relations]]
+[[Category:United States presidential cats]]</text>
+      <sha1>t0l5me68d9tgc2jyd1lor925pwukkxb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Hank the Cat</title>
+    <ns>0</ns>
+    <id>37609662</id>
+    <revision>
+      <id>1104873745</id>
+      <parentid>965374421</parentid>
+      <timestamp>2022-08-17T09:33:29Z</timestamp>
+      <contributor>
+        <username>Randy Kryn</username>
+        <id>4796325</id>
+      </contributor>
+      <comment>See also 'List of individual cats'</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6011" xml:space="preserve">'''Hank the Cat''' (August 2001 – February 13, 2014)&lt;ref name=Gawker&gt;{{cite web|last=Petchesky|first=Barry|title=Hank The Cat, Charles Darwin, And 'None Of These Candidates' All Had Strong Showings On Election Day|url=http://gawker.com/5959459/hank-the-cat-charles-darwin-and-none-of-these-candidates-all-had-strong-showings-on-election-day|publisher=Gawker|accessdate=11 November 2012}}&lt;/ref&gt; was a [[Maine Coon]] cat that was put up as a [[joke candidate]] in the [[United States Senate election in Virginia, 2012|2012 United States Senate election in Virginia]], a feat which gained international coverage after Hank reportedly came third behind the two major candidates. He died in 2014 due to [[Lymphoma in animals|stomach lymphoma]].&lt;ref&gt;{{Cite web|last=Greenwood|first=Arin|date=2014-02-13|title=Goodbye To Hank, Beloved Cat Who Ran For U.S. Senate|url=https://www.huffpost.com/entry/hank-the-cat-senate_n_4784836|access-date=2020-06-30|website=HuffPost|language=en}}&lt;/ref&gt;
+
+==Early life==
+According to a satirical biography of Hank lampooning the rags-to-riches biographies prevalent for mainstream Senate candidates, Hank and his siblings were found on a street and taken to an animal shelter, and were initially designated for [[animal euthanasia]]. However, they were instead given to Animal Allies, a rescue group, and Hank was adopted by a family in [[Springfield, Virginia|Springfield]]. The biography then says Hank worked his way through school to gain high grades, and then entered into business, starting up several successful companies.&lt;ref name=AH&gt;{{cite web|title=About Hank|url=http://hankforsenate.com/AboutHank.aspx|publisher=Hank for Senate|accessdate=11 November 2012}}&lt;/ref&gt;
+
+==Run for Senate==
+In his joke biography, Hank was encouraged to run because of his life story, experiences and his work ethic, while his website described him as "a refreshing candidate—energetic, inspiring, and real".&lt;ref name=AH /&gt; In reality, owners Matthew O'Leary and Anthony Roberts put him up when they both grew exasperated by regular political campaigns. Initially, Hank ran for state Senate, but gained only 9 write-in votes, though his owners mocked that by saying that regular politicians respond to such a defeat by running for the next highest office, which led to their decision to stand Hank for the United States Senate.&lt;ref name=APHP&gt;{{cite news|last=Greenwood|first=Arin|title=Hank The Cat, Running For Virginia Senate, Setting His Sights On 2016?|url=http://www.huffingtonpost.com/2012/04/26/hank-the-cat-senate-virginia-2016_n_1452934.html#slide=906062|accessdate=11 November 2012|newspaper=The Huffington Post|date=26 April 2012}}&lt;/ref&gt;
+
+Though a joke candidacy, the campaign was built upon a couple of serious points—mocking conventional candidates, and to raise awareness and funds for animal groups, and rescue organizations donated $16,000 to the campaign. Hank's policies were described as "Animal Rescue, Spay &amp; Neuter programs, and Positive Campaign Reform."&lt;ref name=Yahoo&gt;{{cite news|title=Hank the cat third in senate race|url=http://au.news.yahoo.com/full-coverage/us-election/a/-/article/15343002/hank-th-cat-third/|accessdate=11 November 2012|publisher=Yahoo! News|date=9 November 2012|url-status=dead|archiveurl=https://web.archive.org/web/20121112044152/http://au.news.yahoo.com/full-coverage/us-election/a/-/article/15343002/hank-th-cat-third|archivedate=12 November 2012}}&lt;/ref&gt; Beyond the United States, O'Leary and Roberts gained the help of Svetlana Petrova, a St. Petersburg-based artist, who designed two-dollar bills featuring Hank.&lt;ref name=dcist /&gt; On election day, Hank supporters stood outside polling stations trying to gain last-minute supporters; an effort which, according to O'Leary and Roberts, led to a baffled albeit positive reaction from voters, although he said that they received a frosty reception from Republican volunteers. Hank himself slept through the day.&lt;ref name=dcist&gt;{{cite news|last=Freed|first=Benjamin|title=Hank the Cat Claws His Way to Third Place in Virginia Senate Race|url=http://dcist.com/2012/11/hank_the_cat_claims_third_place_in.php|accessdate=11 November 2012|newspaper=dcist|date=9 November 2012|url-status=dead|archiveurl=https://web.archive.org/web/20150824093910/http://dcist.com/2012/11/hank_the_cat_claims_third_place_in.php|archivedate=24 August 2015}}&lt;/ref&gt;
+
+In the election there were 7,319 write-in votes and Hank's owners stated that these all were votes for Hank, making him third.&lt;ref name=HP3rd&gt;{{cite news|title=Hank The Cat, Virginia Feline Running For U.S. Senate, Places 3rd|url=http://www.huffingtonpost.com/2012/11/09/hank-cat-senate-third_n_2101887.html|accessdate=11 November 2012|newspaper=The Huffington Post|date=9 November 2012}}&lt;/ref&gt; This prompted media coverage not just in Virginia, but also nationally and internationally. By the end of the campaign, O'Leary and Roberts raised $60,000, which they intended to donate to animal charities, including one in Russia selected by Petrova in gratitude for her help.&lt;ref name=dcist /&gt;&lt;ref name=HP3rd /&gt; Roberts commended the effort, saying, "There are literally going to be lives that are saved with that. From our personal point of view we got to share our kitty with the entire world, and that's really great."&lt;ref name=dcist /&gt;
+
+Hank's campaign was the subject of a parody [[attack ad]] launched on YouTube on March 3, 2012.&lt;ref&gt;{{cite news|last=Tuttle|first=Hillary|title='Hank For Senate' Cat Campaign Dogged By Attack Ad (VIDEO)|url=http://www.huffingtonpost.com/2012/03/02/hank-for-senate-attack-ad-cat-senate-virginia_n_1316775.html|accessdate=11 November 2012|newspaper=Huffington Post|date=2 March 2012}}&lt;/ref&gt;
+
+==See also==
+* [[List of individual cats]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+* [http://hankforsenate.com/ Official website]
+
+[[Category:2001 animal births]]
+[[Category:2014 animal deaths]]
+[[Category:Cats in the United States]]
+[[Category:Individual cats in politics]]
+[[Category:2012 Virginia elections]]</text>
+      <sha1>m07iafjmx0ua1qn4tif9i0hosk3ruon</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nyan Cat</title>
+    <ns>0</ns>
+    <id>31883240</id>
+    <revision>
+      <id>1101357563</id>
+      <parentid>1101336662</parentid>
+      <timestamp>2022-07-30T16:03:59Z</timestamp>
+      <contributor>
+        <username>Ianmacm</username>
+        <id>669117</id>
+      </contributor>
+      <comment>rv good faith edit; previous is better, newer is ungrammatical</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18642" xml:space="preserve">{{short description|2011 Internet meme}}
+{{pp|small=yes}}
+[[File:Nyan cat 250px frame.PNG|thumb|right|Nyan Cat]]
+'''Nyan Cat''' is a [[YouTube]] video uploaded in April 2011, which became an [[internet meme]]. The video merged a [[Japanese pop]] song with an animated cartoon cat with a [[Pop-Tarts|Pop-Tart]] for a torso flying through space and leaving a [[rainbow]] trail behind. The video ranked at number five on the list of most viewed YouTube videos in 2011.&lt;ref name = "ranking"&gt;{{cite web |url=http://latimesblogs.latimes.com/technology/2011/12/talking-twin-babies-nyan-cat-and-friday-top-youtubes-most-watched-videos-of-2011.html|title=Talking Twin Babies, Nyan Cat among YouTube's top videos of 2011|work=[[Los Angeles Times]]|date=December 20, 2011|access-date=December 20, 2011|archive-url=https://web.archive.org/web/20120605023312/http://latimesblogs.latimes.com/technology/2011/12/talking-twin-babies-nyan-cat-and-friday-top-youtubes-most-watched-videos-of-2011.html|archive-date=2012-06-05|url-status=live}}&lt;/ref&gt;
+
+== Origin ==
+
+=== Animated GIF ===
+[[File:Nyan cat doodle.PNG|thumb|right|Original Nyan Cat doodle]]
+On April 2, 2011, the [[Animated GIF|GIF animation]] of the cat was posted by 25-year-old Christopher Torres of [[Dallas]], [[Texas]], who uses the name "prguitarman", on his website ''LOL-Comics''.&lt;ref&gt;{{cite web |url=http://www.prguitarman.com/index.php?id=348 |title=Pop Tart / Nyan Cat! |author=prguitarman |website=LOL-comics |date=April 2, 2011 |access-date=November 13, 2011 |url-status=dead|archive-url=https://web.archive.org/web/20120906230851/http://www.prguitarman.com/index.php?id=348 |archive-date=September 6, 2012 }}&lt;/ref&gt; Torres explained in an interview where the idea for the animation came from: "I was doing a donation drive for the [[Red Cross]] and in-between drawings in my [[Livestream]] video chat, two different people mentioned I should draw a 'Pop Tart' and a 'cat'." In response, he created a hybrid image of a [[Pop-Tarts|Pop-Tart]] and a cat, which was developed a few days later into the animated GIF.&lt;ref name="Pop" /&gt;
+Nyan Cat was based on a real cat: Torres' pet cat Marty, who died in November 2012 from [[feline infectious peritonitis]].&lt;ref&gt;{{cite web |url=http://mashable.com/2012/11/02/rip-marty-nyan-cat/ |title=RIP Marty --The Inspiration for Nyan Cat |publisher=mashable.com |date=November 2, 2012 |access-date=November 2, 2012}}&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://petslady.com/articles/meme_memory_rip_marty_nyan_cats_inspiration_59757 |title=From Meme To Memory: RIP Marty, Nyan Cat's Inspiration |publisher=petslady.com |date=November 2, 2012 |access-date=November 2, 2012}}&lt;/ref&gt;
+
+=== Song ===
+The original version of the song "Nyanyanyanyanyanyanya!" was uploaded by user "daniwell"&lt;ref&gt;"daniwell" is variously credited on the web as daniwellP and Daniwell-P; the account that uploaded the song "Nyanyanyanyanyanyanya!" uses the name daniwell.&lt;/ref&gt; to the Japanese video site [[Niconico]] on July 25, 2010.&lt;ref name="original"&gt;ニコニコ動画(原宿).【初音ミク】Nyanyanyanyanyanyanya!【オリジナループ】. From [http://www.nicovideo.jp/watch/sm11509720 nicovideo.jp] {{Webarchive|url=https://web.archive.org/web/20110606032401/http://www.nicovideo.jp/watch/sm11509720 |date=2011-06-06 }} July 25, 2010. Retrieved May 30, 2011.&lt;/ref&gt; The song features the [[Vocaloid]] virtual singer [[Hatsune Miku]]. The Japanese word {{nihongo||にゃ|nya}} is [[onomatopoeia|onomatopoeic]], imitating the call of a cat (equivalent to English "[[meow]]").&lt;ref name = "ranking"/&gt; The song was later included in the [[rhythm game]] ''[[Hatsune Miku: Project DIVA F]]'', released by [[Sega]] in August 2012.&lt;ref&gt;{{cite news |title=Watch The Nyan Cat Song In Hatsune Miku Project Diva f |url=https://www.siliconera.com/watch-the-nyan-cat-song-in-hatsune-miku-project-diva-f/ |access-date=15 April 2020 |work=[[Siliconera]] |date=9 August 2012}}&lt;/ref&gt;
+
+On January 30, 2011, a user named "Momomomo" uploaded a cover of "Nyanyanyanyanyanyanya!" featuring the [[UTAU]] voice Momone Momo.&lt;ref&gt;[http://www.vocaloidism.com/2011/05/22/nyan-cat-hit-10m-views/ Nyan Cat hit 10M views] {{Webarchive|url=https://web.archive.org/web/20110620190935/http://www.vocaloidism.com/2011/05/22/nyan-cat-hit-10m-views/ |date=2011-06-20 }} ''Vocaloidism'', May 22, 2011. Retrieved November 13, 2011.&lt;/ref&gt;&lt;ref name="UTAU"&gt;
+【UTAU】Nyanyanyanyanyanyanya!【桃音モモ】【ミクカバー】 ‐ ニコニコ動画(原宿). From [http://www.nicovideo.jp/watch/sm13455867 nicovideo.jp] {{Webarchive|url=https://web.archive.org/web/20110426193037/http://www.nicovideo.jp/watch/sm13455867 |date=2011-04-26 }}, January 31, 2011. Retrieved May 30, 2011.&lt;/ref&gt; The voice source used to create the Momone Momo voice was a Japanese woman named Momoko Fujimoto.&lt;ref&gt;{{cite interview |last1=Fujimoto |first1=Momoko |last2=Oyamano |first2=Mayo |interviewer=Yotsumoto Toshimi |date=6 August 2011 |language=Japanese |title=これがソラリスの海か！ “音源系女子”ガールズトーク |trans-title=This is the ocean of Solaris! A Girl's Talk with the "Sound System Girls" |work={{ill|ASCII.jp|ja}} |url=https://ascii.jp/elem/000/000/624/624499/ |archive-url=https://web.archive.org/web/20110813005403/http://ascii.jp/elem/000/000/624/624499/ |archive-date=13 August 2011 |url-status=live}}&lt;/ref&gt;
+
+=== YouTube video ===
+
+[[YouTube]] user "saraj00n" (whose real name is Sara June)&lt;ref name = "pc_world"&gt;{{cite web |url=http://www.pcworld.com/article/249299/profiles_in_geekdom_chris_torres_creator_of_nyan_cat.html |title=Profiles in Geekdom: Chris Torres, Creator of Nyan Cat |publisher=[[PCWorld (magazine)|PCWorld]] |date=February 4, 2012 |access-date=March 22, 2012 |archive-url=https://web.archive.org/web/20120308054835/http://www.pcworld.com/article/249299/profiles_in_geekdom_chris_torres_creator_of_nyan_cat.html |archive-date=2012-03-08 |url-status=live }}&lt;/ref&gt; combined the cat animation with the "Momomomo" version of the song "Nyanyanyanyanyanyanya!", and uploaded it to YouTube on April 5, 2011, three days after Torres had uploaded his animation, giving it the title "Nyan Cat".&lt;ref name = "ranking" /&gt;&lt;ref name=Pop /&gt; The video rapidly became a success after being featured on websites including [[G4 (American TV network)|G4]] and [[CollegeHumor]]. Christopher Torres said: "Originally, its name was Pop Tart Cat, and I will continue to call it so, but the Internet has reached a decision to name it Nyan Cat, and I'm happy with that choice, too."&lt;ref name = "Pop"&gt;{{cite web |url=http://popgoestheweek.com/2011/04/pop-profile-the-brains-behind-the-viral-phenomenon-nyan-cat/ |title=POP Profile: The Guy Behind The Viral Phenomenon "Nyan Cat" |publisher=Pop goes the Week |date=April 19, 2011|access-date=October 28, 2011}}&lt;/ref&gt;
+
+In March 2019, ownership of the YouTube channel hosting the original Nyan Cat video was transferred to [[Means TV]], a [[worker cooperative|worker-owned]] video streaming service.&lt;ref name = "means_tv"&gt;{{cite web |url=https://theintercept.com/2019/03/21/means-tv-anti-capitalist-streaming-service/ |title=Means TV, with a boost from the Nyan Cat, launches a post-capitalist streaming service|publisher=Theintercept.com |date=March 21, 2019|access-date=April 10, 2019}}&lt;/ref&gt;
+
+===Remastering and sale as an NFT===
+In February 2021, it was reported that the gif's original creator, Chris Torres, had created an updated version and sold it as a [[non-fungible token|non-fungible token (NFT)]] for 300 [[Ethereum|ether]], the equivalent of US$587,000 at the time of sale.&lt;ref&gt;{{cite web |url= https://gizmodo.com/one-of-a-kind-nyan-cat-gif-sold-in-crypto-art-auction-t-1846312536 |title= Remastered Nyan Cat Gif Sold for the Equivalent of $587,000 in a Crypto Art Auction |author = Stanley, Alise |website= Gizomodo |date= 19 February 2021 |access-date= 28 February 2021}}&lt;/ref&gt;
+
+== Reception ==
+
+The Nyan Cat music video reached ninth place in ''[[Business Insider]]''{{'}}s top ten [[viral video]]s of April 2011, with 7.2 million total views.&lt;ref&gt;{{cite web |url=http://www.businessinsider.com/top-viral-videos-of-april-2011-5|title=Top viral videos of April: What's A "Nyan Cat"?|website=[[Business Insider]]|date=May 3, 2011|access-date=November 13, 2011}}&lt;/ref&gt; The original [[YouTube]] video has received 199 million views {{As of|2022|06|11|lc=yes|df=US}}. Nyan Cat won a [[Webby Award]] in 2012 for "Meme of the Year".&lt;ref&gt;{{cite web |title=Special Achievement: Meme of the Year: Nyan Cat |url=https://www.webbyawards.com/winners/2012/special-achievement/meme-of-the-year/nyan-cat/ |website=webbyawards.com |access-date=13 December 2019}}&lt;/ref&gt;
+
+Due to the video's popularity, many new [[remix]]es and cover versions have been made, some several hours long. There are also [[ringtone]]s, [[Wallpaper (computing)|wallpapers]] and [[Application software|applications]] created for [[operating system]]s and devices, including a [[progress bar]] substitute for [[Windows]] which would show up in various places such as the file transfer progress indicator in [[Windows Explorer]], following a request on the [[subreddit]] "Somebody Make This".&lt;ref&gt;{{cite web |last=Brandrick |first=Chris |url=http://www.pcworld.com/article/235674/nyan_cat_invades_windows_7_dances_along_progress_bars.html |title=Nyan Cat Invades Windows 7, Dances Along Progress Bars |publisher=PCWorld |date=2011-07-13 |access-date=2011-09-22 |archive-url=https://web.archive.org/web/20120719160627/http://www.pcworld.com/article/235674/nyan_cat_invades_windows_7_dances_along_progress_bars.html |archive-date=2012-07-19 |url-status=live }}&lt;/ref&gt;&lt;ref&gt;{{cite web |last1=Robberts |first1=Eric |title=Nyan Cat Progress Bar |url=https://ekm.co/2011/07/nyan-cat-progress-bar/ |website=EKM.CO |date=12 July 2011 |access-date=19 April 2022 }}&lt;/ref&gt;&lt;ref&gt;{{web archive |url=https://web.archive.org/web/20211213203709/https://i.reddit.com/r/SomebodyMakeThis/comments/i3bdk/smt_a_nyan_cat_loading_bar_ui_mod_for_windows/ }} (June 19, 2011)&lt;/ref&gt; Video games were developed for [[iPhone]], [[iPad]],&lt;ref&gt;{{cite news|url=https://www.theguardian.com/technology/appsblog/2011/may/13/apps-rush-thomas-friends-squirrel-nutkin |title=Apps rush: Nutkin, Nyan Cat and more | location=London | work=The Guardian |first=Stuart |last=Dredge |date=May 14, 2011|access-date=November 13, 2011}}&lt;/ref&gt; [[Symbian]],&lt;ref&gt;{{cite web |url=http://pdadevice.com/nyan-cat-on-the-nokia-cell-phone.html |title=Nyan Cat on the Nokia Cell Phone |publisher=Pdadevice.com |date=2011-07-02 |access-date=2011-09-22}}&lt;/ref&gt; [[Android (operating system)|Android]],&lt;ref&gt;{{cite web |url=https://play.google.com/store/apps/details?id=com.istomgames.engine&amp;hl=en|title=Nyan Cat: Lost In Space |access-date=April 10, 2015}}&lt;/ref&gt; [[Windows Phone]],&lt;ref&gt;{{cite web|url=http://www.wpcentral.com/nyan-cat-strays-marketplace|title=Nyan Cat strays into the Marketplace|work=wpcentral.com|access-date=November 13, 2011|archive-url=https://web.archive.org/web/20141019092722/http://www.wpcentral.com/nyan-cat-strays-marketplace|archive-date=October 19, 2014|url-status=dead}}&lt;/ref&gt; and [[HP webOS]],&lt;ref name="Application page"&gt;{{cite web |url=https://developer.palm.com/appredirect/?packageid=com.taytabbb.nyan&amp;applicationid=9147 |title=Nyan Cat for HP webOS |publisher=Developer.palm.com |access-date=2011-07-04 |url-status=dead |archive-url=https://web.archive.org/web/20110810065425/https://developer.palm.com/appredirect/?packageid=com.taytabbb.nyan&amp;applicationid=9147 |archive-date=2011-08-10 }}&lt;/ref&gt; and a variety of [[flash game]]s such as "[[Snake (video game genre)|Snake]]" replicas using the cat's rainbow tail.&lt;ref&gt;[https://archive.org/details/nyake "nyake" – Internet Archive]&lt;/ref&gt; "Nyan Cat Adventure", by [[21st Street Games]], is an officially licensed game.&lt;ref name = "pc_world" /&gt;&lt;ref&gt;{{cite web |url=http://thegamerplex.com/temp/nyan-cat-adventure-xbox-360-indie-game-review/|title=Nyan Cat Adventure (Xbox 360 – Indie Game) Review |work=thegamerplex.com|access-date=December 21, 2011|url-status=dead |archive-url=https://web.archive.org/web/20120406192105/http://thegamerplex.com/temp/nyan-cat-adventure-xbox-360-indie-game-review/|archive-date=April 6, 2012}}&lt;/ref&gt; An officially licensed [[cryptocurrency]] entitled "Nyancoin" with the domain name nyanco.in (later nyan-coin.org) was launched in January 2014.&lt;ref&gt;{{cite web |url=https://www.theregister.co.uk/2014/01/23/nyancoin_crytpocurrency/|first=Simon|last=Sharwood|title=Cryptocurrencies now being pooped out by cartoon cat|work=The Register|date=January 23, 2014|access-date=January 24, 2014}}&lt;/ref&gt;
+=== Website ===
+
+Christopher Torres initially criticized the website www.nyan.cat, which originally featured a similar-looking cat with the pop tart replaced by a slice of toast,&lt;ref&gt;[https://web.archive.org/web/20110531001830/http://nyan.cat/ Non-Stop Nyan Cat!] The original nyan.cat, archived by the [[Wayback Machine]]. Retrieved 19 January 2014.&lt;/ref&gt; and the same background music. The site, which uses the [[.cat]] [[sponsored top-level domain]], was described by Torres as "plagiarized".&lt;ref&gt;[http://nyan.cat/ nyan.cat] {{Webarchive|url=https://web.archive.org/web/20110531001830/http://nyan.cat/ |date=2011-05-31 }} Retrieved November 13, 2011.&lt;/ref&gt;&lt;ref&gt;{{cite web |url=http://prguitarman.tumblr.com/post/4954865409/huy-hong-so-tremendously-humbled-thank-you-lies |title=Huy Hong: so tremendously humbled, thank you. Lies and thievery |work=prguitarman.tumblr.com |access-date=November 13, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120426062757/http://prguitarman.tumblr.com/post/4954865409/huy-hong-so-tremendously-humbled-thank-you-lies |archive-date=April 26, 2012 }}&lt;/ref&gt; Since 2012 the website has been operated by Torres, and shows the authentic version of the cat.&lt;ref name = "pc_world" /&gt;
+
+== Temporary DMCA takedown ==
+
+On June 27, 2011, the original YouTube video was taken down from the site following a [[Digital Millennium Copyright Act]] complaint from someone claiming to be Torres. Torres immediately issued a statement on his website ''LOL-comics'' denying that he was the source of the complaint, and contacted Saraj00n and daniwell, who hold the copyright for the video and the song, in order to file a counter-complaint to YouTube. During the period that the video was unavailable for viewing, Torres received numerous abusive e-mails from people who wrongly believed that he had filed the DMCA complaint. On June 28, 2011, the Nyan Cat video was restored to YouTube.&lt;ref&gt;{{cite web |url=http://www.prguitarman.com/index.php?id=369 |title=I did NOT file a Youtube Copyright Complaint |publisher=prguitarman.com |date=June 27, 2011 |access-date=November 13, 2011 |url-status=dead |archive-url=https://web.archive.org/web/20120726062134/http://www.prguitarman.com/index.php?id=369 |archive-date=July 26, 2012 }}&lt;/ref&gt;
+
+== Lawsuit ==
+
+In May 2013, Christopher Torres and Charles Schmidt, the creators of Nyan Cat and [[Keyboard Cat]] respectively, jointly sued [[5th Cell]] and [[Warner Bros.]] for [[copyright infringement]] and [[trademark infringement]] over the appearance of these characters without permission in the ''[[Scribblenauts (series)|Scribblenauts]]'' series of video games. Torres and Schmidt have [[registered copyright]]s on their characters and have pending trademark applications on the names.&lt;ref&gt;{{cite web | url = https://www.bbc.co.uk/news/technology-22397446# | title = Nyan Cat and Keyboard Cat creators sue Warner Bros | work = BBC News | date = 2013-05-02 | access-date = 2013-05-02 | archive-url = https://web.archive.org/web/20130504004241/http://www.bbc.co.uk/news/technology-22397446 | archive-date = 2013-05-04 | url-status = live }}&lt;/ref&gt;&lt;ref name="theverge"&gt;{{cite web |author=Adi Robertson |url=https://www.theverge.com/2013/5/2/4293484/nyan-cat-keyboard-cat-creators-sue-scribblenauts-over-easter-eggs |title=Nyan Cat and Keyboard Cat creators sue 'Scribblenauts' studio for using their memes |publisher=The Verge |date=2013-02-12 |access-date=2013-05-03 |archive-url=https://web.archive.org/web/20130505004006/http://www.theverge.com/2013/5/2/4293484/nyan-cat-keyboard-cat-creators-sue-scribblenauts-over-easter-eggs |archive-date=2013-05-05 |url-status=live }}&lt;/ref&gt; Torres released a statement saying that he had tried to obtain compensation from 5th Cell and Warner Bros. for commercial use of the character, but was "disrespected and snubbed" multiple times.&lt;ref&gt;{{cite web |url=http://www.gamepolitics.com/2013/05/03/nyan-cat-creator-comments-warner-bros-lawsuit#.UYjXYuXSxFl|title=Nyan Cat Creator Comments on Warner Bros. Lawsuit|publisher=GamePolitics|date=2013-05-07|access-date=2013-05-07}}&lt;/ref&gt;&lt;ref&gt;{{cite web |last=Phillips |first=Tom |url=http://www.eurogamer.net/articles/2013-05-02-warner-bros-and-5th-cell-hit-by-keyboard-cat-nyan-cat-lawsuit |title=Warner Bros. and 5th Cell targeted by Keyboard Cat, Nyan Cat lawsuit • News • |publisher=Eurogamer.net |date=2013-05-03 |access-date=2013-06-27 |archive-url=https://web.archive.org/web/20130625164012/http://www.eurogamer.net/articles/2013-05-02-warner-bros-and-5th-cell-hit-by-keyboard-cat-nyan-cat-lawsuit |archive-date=2013-06-25 |url-status=live }}&lt;/ref&gt; The suit was settled in September 2013, with Torres and Schmidt being paid for the use of the characters.&lt;ref name="nymag"&gt;{{cite web|last=Van Syckle|first=Katie |url=http://nymag.com/daily/intelligencer/2013/09/keyboard-cat-nyan-cat-win-warner-bros-lawsuit.html|title=Keyboard Cat and Nyan Cat Come Out Ahead in Lawsuit Against Warner Bros.|publisher=Nymag.com|date=2013-09-26|access-date=2013-10-02|archive-url=https://web.archive.org/web/20130930195323/http://nymag.com/daily/intelligencer/2013/09/keyboard-cat-nyan-cat-win-warner-bros-lawsuit.html |archive-date=2013-09-30|url-status=live}}&lt;/ref&gt;
+
+== See also ==
+
+{{Portal|Internet}}
+* ''[[Robot Unicorn Attack]]''
+* ''[[Techno Kitten Adventure]]''
+* [[Cats and the Internet]]
+* [[List of Internet phenomena]]
+
+{{clear}}
+
+== References ==
+{{Reflist|30em}}
+
+== External links ==
+* {{Official website}}
+* [https://web.archive.org/web/20120906230851/http://www.prguitarman.com/index.php?id=348 Nyan Cat on ''LOL-Comics''], the original GIF animation by prguitarman (Christopher Torres), April 2, 2011.
+* {{youtube|QH2-TGUlwu4| Nyan Cat, saraj00n (April 5, 2011)}}
+
+
+
+[[Category:2011 YouTube videos]]
+[[Category:2011 works]]
+[[Category:Fictional cats]]
+[[Category:Fictional characters introduced in 2011]]
+[[Category:Internet memes introduced in 2011]]
+[[Category:IOS games]]
+[[Category:Viral videos]]
+[[Category:Webby Award winners]]
+[[Category:Xbox 360 games]]</text>
+      <sha1>p16qehpei6ayp4q0akaii091adex9g5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Grumpy Cat</title>
+    <ns>0</ns>
+    <id>37865040</id>
+    <revision>
+      <id>1123391167</id>
+      <parentid>1123391138</parentid>
+      <timestamp>2022-11-23T13:40:19Z</timestamp>
+      <contributor>
+        <username>ClueBot NG</username>
+        <id>13286072</id>
+      </contributor>
+      <minor/>
+      <comment>Reverting possible vandalism by [[Special:Contribs/47.184.27.220|47.184.27.220]] to version by FinnSoThin. [[WP:CBFP|Report False Positive?]] Thanks, [[WP:CBNG|ClueBot NG]]. (4194085) (Bot)</comment>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="34675" xml:space="preserve">{{redirect-distinguish|Tardar Sauce|Tartar sauce}}
+{{short description|Cat and Internet meme celebrity (2012–2019)}}
+{{Use mdy dates|date=May 2019}}
+{{Infobox animal
+| name                    = Grumpy Cat
+| image                   = Grumpy Cat (14556024763) (cropped).jpg
+| caption                 = Grumpy Cat at [[VidCon]] 2014
+| othername               = Tardar Sauce
+| species                 = ''[[Cat|Felis catus]]''
+| breed                   = Mixed
+| gender                  = Female
+| birth_date              = {{Birth date|2012|4|4|mf=yes}}
+| birth_place             = [[Morristown, Arizona]] U.S.
+| death_date              = {{death date and age|2019|5|14|2012|4|4|mf=yes}}
+| death_place             = Morristown, Arizona, U.S.
+| years_active            = 2012–2019
+| known                   = Being an [[Internet meme]]
+| awards                  = 
+| owner                   = Tabatha Bundesen
+| namedafter              = [[Tartar sauce]]
+| website                 = {{URL|http://www.grumpycats.com/}}}}
+'''Tardar Sauce''' (April 4, 2012&lt;ref name="16facts" /&gt; – May 14, 2019), nicknamed '''Grumpy Cat''', was an American [[Internet celebrity]] cat. She was known for her [[Resting bitch face|permanently "grumpy" facial appearance]], which was caused by an [[Malocclusion|underbite]] and [[dwarf cat|feline dwarfism]].&lt;ref name="16facts" /&gt;&lt;ref name="news.com.au"&gt;{{cite news |last=Colvin|first=William|url= https://www.news.com.au/technology/internet-finds-worlds-grumpiest-cat-named-tardar-sauce/news-story/d7027c05bf9f296d988a72f4dc8faac5|title=Internet finds world's grumpiest cat, named Tardar Sauce p|website=[[news.com.au]] |date=September 28, 2012 |access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref name="abc"&gt;{{cite web|url=https://abcnews.go.com/blogs/technology/2013/03/grumpy-cat-the-internets-favorite-sour-cat-draws-crowds-at-sxsw/|title=Grumpy Cat: The Internet's Favorite Sour Cat Draws Crowds at SXSW|last=Stern|first=Joanna|date=March 10, 2013|publisher=ABC News|access-date=May 22, 2019}}&lt;/ref&gt; She came to prominence when a photograph of her was posted on September 22, 2012, on social news website [[Reddit]] by Bryan Bundesen, the brother of her owner Tabatha Bundesen.&lt;ref name="16facts"&gt;{{cite web|url=http://mentalfloss.com/article/53217/16-fun-facts-about-grumpy-cat|title=16 Fun Facts About Grumpy Cat|last=McCarthy|first=Erin|date=October 16, 2013|website=Mental Floss|access-date=August 3, 2018}}&lt;/ref&gt;&lt;ref name="cnn"&gt;{{cite news|last=Griggs|first=Brandon|url=http://www.cnn.com/2013/03/10/tech/web/grumpy-cat-sxsw/index.html|title=The unlikely star of SXSW: Grumpy Cat|date=March 11, 2013|access-date=May 22, 2019|publisher=CNN}}&lt;/ref&gt; "[[Lolcat]]s" and [[Parody|parodies]] created from the photograph by Reddit users became popular. She was the subject of a popular [[Internet meme]] in which humorously negative, cynical images were made from photographs of her.&lt;ref&gt;{{Cite news|url=https://knowyourmeme.com/memes/grumpy-cat|title=Grumpy Cat|work=Know Your Meme|access-date=August 4, 2018}}&lt;/ref&gt;
+
+As of August 23, 2020, Grumpy Cat had 8.3 million total likes on [[Facebook]],&lt;ref&gt;{{cite web|title=The Official Grumpy Cat|url=https://m.facebook.com/pg/TheOfficialGrumpyCat/community/?ref=page_internal&amp;mt_nav=0|access-date=28 October 2019|via=Facebook}}&lt;/ref&gt; 2.6 million followers on [[Instagram]]&lt;ref&gt;{{cite web|title=Grumpy Cat (@realgrumpycat)|url=https://www.instagram.com/realgrumpycat/|access-date=28 October 2019|via=Instagram}}&lt;/ref&gt; 1.5 million followers on [[Twitter]]&lt;ref&gt;{{cite web|title=Grumpy Cat (@RealGrumpyCat)|url=https://twitter.com/RealGrumpyCat|access-date=28 October 2019|via=Twitter}}&lt;/ref&gt; and 283,000 subscribers on [[YouTube]].
+
+== Background ==
+Tardar Sauce was one of a litter of four kittens born to a [[Calico cat|calico]] mother and a blue-and-white [[tabby]] putative father at the home of her owner, Tabatha Bundesen of [[Morristown, Arizona]].&lt;ref name="16facts" /&gt; The Bundesens said that Tardar Sauce's face appeared grumpy because the feline had a form of [[Dwarf cat|dwarfism]].&lt;ref name="about" /&gt; Though the mother and father were described as "normal-sized [[Domestic short-haired cat|domestic short-hair cats]]",&lt;ref name="about"&gt;{{cite web|url=http://www.grumpycats.com/about|title=About Grumpy Cat|website=grumpycats.com|access-date=July 31, 2018}}&lt;/ref&gt; Tardar Sauce was undersized and had hind legs that are "a bit different".&lt;ref name="16facts" /&gt; Both she and her brother, Pokey, were born with "a flat face, bubble eyes, and a short tail".&lt;ref name="news.com.au" /&gt; Although she had a "grumpy" appearance and was called "Grumpy Cat", according to the Bundesens, "Ninety-nine percent of the time she is just a regular cat."&lt;ref name="abc"/&gt;
+
+"Meme manager" Ben Lashes represented Grumpy Cat, in addition to [[Keyboard Cat]] and [[Nyan Cat]].&lt;ref&gt;{{cite magazine|last=Rothman |first=Lily |url=http://entertainment.time.com/2013/04/18/internet-cats-behind-the-memes/ |title='Lil Bub &amp; Friendz': Internet Cats, Behind the Memes |magazine=Time |date=April 18, 2013 |access-date=May 22, 2019}}&lt;/ref&gt; In 2013, Tabatha Bundesen took a [[leave of absence]] from her job at [[Red Lobster]] to manage Grumpy Cat's schedule, while her brother Bryan Bundesen manages the Grumpy Cat website, [[Facebook]], [[YouTube]] and [[Twitter]] accounts.&lt;ref&gt;{{Cite news|last=Jarvey|first=Natalie|url=https://www.hollywoodreporter.com/news/7-figure-scowl-how-grumpy-721883|title=The 7-Figure Scowl: How Grumpy Cat Is Building a Media Empire|work=The Hollywood Reporter|date=July 30, 2014|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref name="wsj"&gt;{{cite news|url=https://www.wsj.com/articles/SB10001424127887324412604578513352795950958|title=Grumpy Cat Has an Agent, and Now a Movie Deal|last=Rosman|first=Katherine|date=May 31, 2013|work=[[The Wall Street Journal]]|access-date=May 30, 2013|url-access=subscription}}&lt;/ref&gt;
+
+==Media appearances==
+After her debut in 2012, Tardar Sauce made many media appearances, typically accompanied by her owner, Tabatha Bundesen; Tabatha's brother, Bryan Bundesen; and occasionally Tabatha's daughter, Chrystal. Tardar Sauce's handlers were interviewed by the respective hosts of each program. She was also featured in advertising campaigns for [[Friskies]] and [[General Mills|General Mills']] [[Honey Nut Cheerios]], and made public appearances to promote her own brand.
+
+=== 2012 ===
+* [[NBC News]]' ''[[Today (U.S. TV program)|Today]]'' show&lt;ref&gt;{{cite web|url=http://www.today.com/video/today/50046072 |title=Meet 'Tardar Sauce,' the grumpy cat gone viral |website=Today.com |date=December 2, 2012 |access-date=June 6, 2013}}&lt;/ref&gt;
+
+=== 2013 ===
+* [[ABC News]]' ''[[Good Morning America]]''&lt;ref name="gma" /&gt;
+* ''[[CBS Evening News]]''&lt;ref&gt;{{Cite web|title=Grumpy Cat, meet Lil Bub; Lil Bub, meet Grumpy Cat|url=https://www.cbsnews.com/video/grumpy-cat-meet-lil-bub-lil-bub-meet-grumpy-cat/|publisher=CBS News|date=November 10, 2013|access-date=May 22, 2019}}&lt;/ref&gt;
+* ''[[Anderson Live]]''&lt;ref name="andersonlive" /&gt;
+* [[VH1]]'s ''[[Big Morning Buzz Live]]''&lt;ref&gt;{{Cite web|title="Big Morning Buzz Live" Steve Carell/Angela 'Big Ang' Raiola/Grumpy Cat (TV Episode 2013)|url=https://www.imdb.com/title/tt2767824/fullcredits|publisher=IMDb|access-date=August 4, 2018}}&lt;/ref&gt;
+* [[E!|E! Network]]'s ''[[The Soup]]''&lt;ref&gt;{{Cite web|publisher=hghostify|title=Tardar Sauce the Grumpy Cat|date=November 1, 2012|url=https://www.youtube.com/watch?v=sXkZje-dSnE|via=YouTube|access-date=August 4, 2018}}&lt;/ref&gt;
+* [[Fox Broadcasting Company|FOX]]'s ''[[American Idol]]''&lt;ref&gt;{{Cite web|work=American Idol|title=Top 6 – Look! It's Grumpy Cat! – American Idol XIII|date=April 24, 2014|url=https://www.youtube.com/watch?v=f1bXhHv5T4s|via=YouTube|access-date=August 4, 2018}}&lt;/ref&gt;
+* Promoting ''Grumpy Cat: A Grumpy Book'' at [[BookExpo America]]&lt;ref&gt;{{Cite tweet|user=BookExpoAmerica|number=335060249897758720|title=Meet Grumpy Cat, author of GRUMPY CAT: A GRUMPY BOOK, on 5/31 at 3PM at the @ChronicleBooks Booth #739 for photos!|date=May 16, 2013|access-date=May 22, 2019}}&lt;/ref&gt;
+* Book launches at [[Los Angeles]] department store, [[Kitson (store)|Kitson]], and [[The Grove at Farmers Market|The Grove]]'s [[Barnes &amp; Noble]]&lt;ref&gt;{{cite news|last=Kellogg |first=Carolyn |url=https://www.latimes.com/features/books/jacketcopy/la-et-jc-grumpy-cat-pawtographs-exclusive-book-preview-20130719,0,3118147.story |title=Grumpy Cat to give 'pawtographs' in L.A.: Exclusive book preview |work=Los Angeles Times |date=July 22, 2013 |access-date=July 29, 2013}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://www.huffingtonpost.co.uk/2013/07/25/grumpy-cat-book-signing_n_3652485.html |title=Grumpy Cat Does Not Look Impressed At Book Signing In Los Angeles (PICTURES) |work=HuffPost |date=July 25, 2013 |access-date=July 29, 2013}}&lt;/ref&gt;
+*[[Michael Noer (editor)|Michael Noer]] "interviewed" Grumpy Cat for ''[[Forbes]]'' magazine, released March 25, 2013. Seated opposite each other in red velvet accent chairs, Noer satirically supposes that Grumpy Cat's performances have "deeper philosophical underpinnings", "[[Existentialism|existential angst]]", and "[[nihilism]]", then goes on to quote [[Franz Kafka|Kafka]], to which Grumpy Cat "replies" via a popular [[image macro]] with [[Impact (typeface)|Impact typeface]], "I read Kafka once.  Wish I hadn't."&lt;ref&gt;{{cite news|url=https://www.forbes.com/video/2589816701001/|title=Grumpy Cat: The Forbes Interview|last=Noer|first=Michael|date=August 6, 2013|work=Forbes|access-date=May 22, 2019}}&lt;/ref&gt;
+
+==== South by Southwest ====
+[[File:Grumpy Cat SXSW 2013 cropped.jpg|thumb|124px|Grumpy Cat at SXSW 2013]]
+In March 2013, Tardar Sauce attended [[South by Southwest]] (SXSW) [[SXSW Interactive|Interactive]], hosted at the [[Mashable]] House,&lt;ref name="abc" /&gt;&lt;ref name="cnn" /&gt;&lt;ref&gt;{{cite web|url=http://mashable.com/2013/03/08/sxsw-i-day-1/|title=SXSWi Day 1: Grumpy Cat, 3D Printing and Other Highlights|first=Dani|last=Fankhauser|date=March 9, 2013|publisher=Mashable|access-date=May 22, 2019}}&lt;/ref&gt; where she appeared for two-hours each day as Grumpy Cat.&lt;ref name="thewrap"&gt;{{cite web|last=Morrison|first=Sara|url=https://www.thewrap.com/movies/article/grumpy-cat-and-lil-bub-felines-behind-memes-and-movie-deals-100381|title=Rise of the Hollywood Cats: Inside Grumpy Cat and Lil BUB's Big Deals|website=TheWrap|date=July 12, 2013|access-date=May 22, 2019}}&lt;/ref&gt; As part of her Spokescat sponsorship, Friskies paid travel expenses to SXSW in [[Austin, Texas]], in order to film "Will Kitty Play With It?"&lt;ref name="tmz"&gt;{{cite web|url=https://www.tmz.com/2013/03/08/grumpy-cat-friskies-paycheck-sxsw-film-festival/|title=Grumpy Cat – Pamprrrrd at Friskies Photo Shoot|date=March 8, 2013|publisher=TMZ|access-date=March 12, 2013}}&lt;/ref&gt;
+
+[[CNN]], [[CBS News]], and [[CNET]] called Grumpy Cat the undisputed "biggest star" of SXSW Interactive over [[Elon Musk]], [[Al Gore]], and [[Neil Gaiman]].&lt;ref name="cnn" /&gt;&lt;ref&gt;{{cite news|last=Ngak|first=Chenda|url=https://www.cbsnews.com/8301-205_162-57573676/as-sxsw-interactive-winds-down-grumpy-cat-is-clear-winner/|title=As SXSW Interactive winds down, Grumpy cat is clear winner|date=March 11, 2013|access-date=May 22, 2019|publisher=CBS News}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=http://news.cnet.com/8301-14013_3-57573517/if-grumpy-cat-is-the-biggest-news-of-all-is-sxsw-in-trouble/|title=If Grumpy Cat is the biggest news of all, is SXSW in trouble?|last=Terdiman|first=Daniel|date=March 11, 2013|publisher=CNET|access-date=May 22, 2019}}&lt;/ref&gt; Over 600 fans waited for hours in the line, which was nearly three [[City block|block]]s long, to take a photo.&lt;ref name="abc" /&gt;&lt;ref name="time" /&gt;&lt;ref name="cnn" /&gt;&lt;ref name="npr"&gt;{{cite web|url=https://www.npr.org/blogs/alltechconsidered/2013/03/11/173928533/the-most-talked-about-tech-and-culture-trends-at-sxsw-interactive?sc=tw&amp;cc=share|title=The Most Talked About Tech And Culture Trends At SXSW Interactive |first1=Elise|last1=Hu|first2=Laura|last2=Sydell|date=March 11, 2013|publisher=NPR|access-date=May 22, 2019}}&lt;/ref&gt; Among the crowds were Internet entrepreneur [[Dennis Crowley]], singer [[Andrew W.K.]], and actor [[Ian Somerhalder]]. Somerhalder took photos with Grumpy Cat and called her his "new love", and described her as "very peaced out", "sweet as pumpkin pie", and "kind of amazing".&lt;ref&gt;{{cite news|url=https://people.com/pets/ian-somerhalder-falls-in-love-with-grumpy-cat-at-sxsw/|title=Ian Somerhalder Falls in Love with Grumpy Cat at SXSW|last=Schwartz|first=Alison|date=March 11, 2013|work=People|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=http://marquee.blogs.cnn.com/2013/03/12/vampire-diaries-star-falls-for-a-certain-grumpy-cat/|title='Vampire Diaries' star falls for a certain grumpy cat|date=March 12, 2013|access-date=May 22, 2019|publisher=CNN}}&lt;/ref&gt;&lt;ref&gt;{{cite tweet|first=Ian|last=Somerhalder|user=iansomerhalder|number=310869650122629120|title=Me and my new love... http://instagr.am/p/WsVAndKJ6Z/|date=March 10, 2013|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite tweet|user=iansomerhalder|number=310848520502513665|title=Oops! I left out Grumpy cat!!! This cat is kind of amazing...|first=Ian|last=Somerhalder|date=March 10, 2013|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|last=Malkin|first=Marc |url=http://www.eonline.com/news/396357/ian-somerhalder-s-new-love-she-is-a-sweetie-pie-with-beautiful-eyes|title=Ian Somerhalder's New Love: "She Is a Sweetie Pie With Beautiful Eyes"|website=E! Online|date=March 11, 2013|access-date=May 22, 2019}}&lt;/ref&gt;
+
+=== 2014 ===
+* Television commercial for [[Honey Nut Cheerios]].&lt;ref&gt;{{cite web|publisher=The Random Cat Lover's|title=When grumpy cat meets honey nut cherrios bee|date=April 20, 2016|url=https://www.youtube.com/watch?v=-XQnSCu-Sks|via=YouTube|access-date=May 22, 2019}}&lt;/ref&gt;
+*Season finale appearance on ABC Network's, ''[[The Bachelorette (American TV series)|The Bachelorette]]''.&lt;ref&gt;{{Cite news|url=https://www.bustle.com/articles/33584-grumpy-cat-guest-stars-on-bachelorette-finale-totally-upstages-josh-murrays-proposal|title=Grumpy Cat Guest Stars on 'Bachelorette' Finale &amp; Totally Upstages Josh Murray's Proposal|last=Sorren|first=Martha|work=Bustle|date=July 29, 2014|access-date=May 22, 2019}}&lt;/ref&gt;
+*Featured as a [[List of WWE Raw guest stars|special guest]] on the November 17, 2014, edition of [[WWE]] ''[[WWE Raw|Monday Night Raw]]''.&lt;ref&gt;{{cite news|last=Fowler|first=Tara|url=https://people.com/pets/grumpy-cat-to-host-wwes-monday-night-raw/|title=Grumpy Cat to Host WWE's Monday Night Raw|work=People|date=November 10, 2014|access-date=May 22, 2019}}&lt;/ref&gt;
+*
+
+=== 2016 ===
+* Special appearance on [[Disney Channel]]'s ''[[Bizaardvark]]''.&lt;ref&gt;{{Cite web|url=https://video.disney.com/watch/disneychannel-grumpy-cat-pitch-53e0a05b1785e5e6c6e53f1d|title=Grumpy Cat Pitch|publisher=Disney|date=October 2, 2016|access-date=May 22, 2019}}&lt;/ref&gt;
+
+==Friskies sponsorship==
+Grumpy Cat appeared in episodes of the [[Friskies]] [[YouTube]] [[game show]] "Will Kitty Play With It?"&lt;ref name="abc"/&gt;&lt;ref name="tmz"/&gt;&lt;ref&gt;{{cite web|first=Helen A.S. |last=Popkin
+|url=https://www.nbcnews.com/technology/technolog/sex-death-grumpy-cat-true-meaning-sxsw-1C8773768 |title=Sex, death and Grumpy Cat: The true meaning of SXSW |publisher=NBC News |date=March 8, 2013 |access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=_9zRCnidn5M|title=Grumpy Cat on Friskies® Cat Game Show, "Will Kitty Play With It?"|date=March 23, 2013|publisher=tunerzkan|via=YouTube|access-date=August 2, 2018}}&lt;/ref&gt; In September 2013, it was announced that Grumpy Cat would become the Official Spokescat of Friskies.&lt;ref&gt;{{cite news|url=https://money.cnn.com/2013/09/18/news/companies/grumpy-cat-friskies/|title=Grumpy Cat signs endorsement deal with Friskies|publisher=CNN|date=September 18, 2013|first=Aaron|last=Smith|access-date=May 22, 2019}}&lt;/ref&gt; [[TMZ]] reported that for Grumpy Cat's SXSW Interactive appearance in Austin, Texas, Friskies paid for [[First class (aviation)|first-class]] flights, a private hotel room with [[Bed size|king-sized bed]], a personal assistant, a [[chauffeur]], and unlimited Friskies food and bottled water.&lt;ref name="tmz"/&gt; On March 22, 2013, Grumpy Cat traveled to New York City promoting the show and appeared on ''[[Good Morning America]]''&lt;ref name="gma"&gt;{{cite web|url=https://abcnews.go.com/GMA/video/grumpy-cat-interview-2013-gma-meme-star-exclusive-18789027 |title=Grumpy Cat Interview 2013 on 'GMA': Meme Star Exclusive Video|publisher=ABC News |date=March 22, 2013|access-date=May 22, 2019}}&lt;/ref&gt; and ''[[Anderson Live]]'',&lt;ref name="andersonlive"&gt;{{cite web|url=https://www.youtube.com/watch?v=toYQ2ery1Bg |title=Grumpy Cat in the House! |work=Anderson Live|via=YouTube |date=March 22, 2013|access-date=May 22, 2019}}&lt;/ref&gt; and visited ''[[Time (magazine)|Time]]'' for a [[photo shoot]].&lt;ref name="time"&gt;{{cite magazine|last1=Waxman|first1=Olivia B.|last2=Carbone|first2=Nick|url=http://newsfeed.time.com/2013/03/22/grumpy-cat-is-not-impressed-by-times-photoshoot/ |title=Internet Celebrity Grumpy Cat Is Not Impressed by TIME's Photo Shoot |magazine=Time |date=March 22, 2013 |access-date=May 22, 2019}}&lt;/ref&gt;
+
+== Merchandising ==
+Grumpy Cat Limited held eight trademarks in August 2018 registered with the [[United States Patent and Trademark Office]]; 1082 items were available on the official Grumpy Cat online shop.&lt;ref&gt;{{cite web|url=https://trademarks.justia.com/owners/grumpy-cat-limited-2594631/|title=Grumpy Cat Limited Trademarks|website=trademarks.justia.com|publisher=Justia Inc|access-date=August 4, 2018}}&lt;/ref&gt;
+
+=== Licensed merchandise ===
+Licensed merchandise like T-shirts and [[mug]]s are advertised on the Grumpy Cat website and sold at [[Hot Topic]].&lt;ref name="austinchronicle"&gt;{{cite web|last=Brenner|first=Wayne Alan|url=http://www.austinchronicle.com/blogs/sxsw/2013-03-08/yes-you-could-totally-meet-grumpy-cat-at-sxsw/|title=Yes, You Could Totally Meet Grumpy Cat at SXSW: And here's an interview with the people behind the varmint|work=The Austin Chronicle|date=March 8, 2013|access-date=May 22, 2019}}&lt;/ref&gt; [[Stuffed toy]]s are also available, the original official [[Stuffed toy|plush]] was produced by [[Gund]], though as of August 2018, no Grumpy Cat merchandise was available on the Gund website.&lt;ref name="gund"&gt;{{cite web|url=https://www.gund.com/category/characters/grumpy+cat.do|title=Grumpy Cat - CHARACTERS|website=gund.com| publisher=Enesco, LLC|archive-url=https://web.archive.org/web/20151119173708/https://www.gund.com/category/characters/grumpy+cat.do|archive-date=November 19, 2015|access-date=August 2, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://gund.com/search?type=product&amp;q=grumpy+cat|title=grumpy cat|website=gund.com|access-date=August 4, 2018}}&lt;/ref&gt; [[Ganz (toy company)|Ganz]], the company behind [[Webkinz]], produced a small Grumpy Cat plush which allowed anyone to play with her electronic likeness on the Webkinz website.&lt;ref&gt;{{cite press release|url=http://www.ganz.com/pressrelease_grumpy_cat_will_meet_new_namesake_webkinz_on_opening_day_of_toy_fair.php|title=GRUMPY CAT™ will meet new namesake Webkinz™ on opening day of Toy Fair|publisher=Ganz|date=February 6, 2014|access-date=May 22, 2019}}&lt;/ref&gt;
+
+Additionally, [[Chronicle Books]] has published The Grumpy Cat Wall Calendar each year since 2013, with a 2022 edition available as of January 2022.&lt;ref&gt;{{Cite web|title=Grumpy Cat 2022 Wall Calendar|url=https://www.chroniclebooks.com/products/grumpy-cat-2022-wall-calendar|access-date=2022-01-18|website=Chronicle Books|language=en}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.thinkgeek.com/product/11ac/|title=Grumpy Cat 2014 Wall Calendar|date=September 28, 2012|publisher=ThinkGeek|access-date=August 2, 2018}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.chroniclebooks.com/titles/grumpy-cat-2019-wall-calendar.html|title=Grumpy Cat 2019 Wall Calendar|publisher=Chronicle Books|access-date=August 5, 2018|archive-url=https://web.archive.org/web/20180919122703/https://www.chroniclebooks.com/titles/grumpy-cat-2019-wall-calendar.html|archive-date=September 19, 2018|url-status=dead}}&lt;/ref&gt;
+
+=== Books ===
+The official Grumpy Cat book, ''Grumpy Cat: A Grumpy Book'', was published on July 23, 2013, by Chronicle Books.&lt;ref name="wsj" /&gt; The book is available in both print and digital formats from retailers worldwide. It debuted at #8 hardcover nonfiction on the ''[[Publishers Weekly]]'' best seller list.&lt;ref&gt;{{cite news|url=https://www.chicagotribune.com/features/books/sc-ent-0801-books-best-sellers-20130802,0,6307558.story |title=Best-sellers: Best-sellers of hardcover fiction and nonfiction |work=Chicago Tribune |date= August 2, 2013|access-date=August 5, 2013}}&lt;/ref&gt; Another Grumpy Cat book called ''The Grumpy Guide to Life: Observations by Grumpy Cat'' was published by Chronicle Books and debuted at #3 on [[The New York Times Best Seller list|''The New York Times'' Best Seller list]] in the Advice, How-To and Miscellaneous category.&lt;ref&gt;{{cite news|url=https://www.nytimes.com/best-sellers-books/2014-08-24/advice-how-to-and-miscellaneous/list.html|title=The New York Times Best Seller List|work=The New York Times|date=August 24, 2014|first=Parul|last=Sehgal|author-link=Parul Sehgal|access-date=May 22, 2019}}&lt;/ref&gt;
+
+[[Dynamite Entertainment]] publishes a comic book about Grumpy Cat and her brother, titled ''The Misadventures of Grumpy Cat and Pokey''.&lt;ref&gt;{{cite web|url=http://www.comicbookresources.com/comic-previews/the-misadventures-of-grumpy-cat-and-pokey-1-dynamite-entertainment-2015|title=The Misadventures of Grumpy Cat and Pokey #1|website=Comic Book Resources|date=October 5, 2015|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.dynamite.com/htmlfiles/search2.html?0=19&amp;next0=&amp;KMPZ=grumpy+cat|title=Search: grumpy cat|website=dynamite.com|publisher=Dynamite Entertainment|access-date=May 22, 2019}}&lt;/ref&gt;
+
+[[Dover Publications]] has also published Grumpy Cat [[paper doll]], sticker, coloring, and tattoo books.&lt;ref&gt;{{cite web |url= http://doverpublications.ecomm-search.com/search?keywords=Grumpy%20Cat| title=Search: Grumpy Cat |website=doverpublications.com |access-date= April 11, 2015}}&lt;/ref&gt;
+
+=== Digital products ===
+In December 2013, an official video game called ''Grumpy Cat: Unimpressed'' was released by Ganz Studios and is playable on [[Facebook]], [[iOS]] devices and [[Android (operating system)|Android]] devices. The game is a [[Tile-matching video game|match-three game]] where if combos are performed, Grumpy Cat's insults will appear. The players unlock her memes as they pass each level and she can be made angry with meows, hairballs and laser pointers.&lt;ref&gt;{{cite web|url=https://www.giantbomb.com/grumpy-cat-unimpressed/3030-44810/|title=Grumpy Cat: Unimpressed|date=December 19, 2013|website=Giant Bomb|access-date=May 22, 2019}}&lt;/ref&gt;
+
+== Legal issues ==
+=== ''Grumpy Cat Limited v. Grenade Beverage LLC'' ===
+In May 2013, Grumpy Cat Limited partnered with Grenade Beverage LLC to market "Grumppuccino" iced coffee beverages.&lt;ref name="wsj" /&gt;&lt;ref&gt;{{cite news|url=http://www.foxnews.com/leisure/2013/07/31/grumpy-cat-expands-empire-with-iced-coffee-called-grumppuccino/|title=Grumpy Cat expands empire with iced coffee called Grumppuccino|date=July 31, 2013|access-date=August 5, 2013|publisher=Fox News}}&lt;/ref&gt;&lt;ref&gt;{{cite magazine|url=http://newsfeed.time.com/2013/07/30/grumpy-cat-grumpuccino-is-sure-to-make-you-not-smile/|title=Grumpy Cat Grumpuccino Is Sure to Make You (Not) Smile|last=Locker|first=Melissa|date=July 30, 2013|access-date=May 22, 2019|magazine=Time}}&lt;/ref&gt;
+
+In December 2015, Grumpy Cat Limited filed a lawsuit against Grenade Beverage LLC citing [[trademark infringement]] when the beverage company expanded its line of Grumpy Cat coffee offerings beyond what was originally agreed upon, producing and marketing a Grumpy Cat roasted ground coffee even after being told by email that they were not approved to do so.&lt;ref&gt;{{cite news|url=https://apps.washingtonpost.com/g/documents/national/grumpy-cat-complaint/2720/|title=Grumpy Cat Complaint|newspaper=The Washington Post|access-date=August 4, 2018}}&lt;/ref&gt;
+
+In January 2018, the [[United States District Court for the Central District of California|U.S. District Court for the Central District of California]] jury sided with Grumpy Cat Limited and ordered Grenade Beverage Company to pay $710,000 in damages for copyright and trademark infringement, as well as a $1 nominal damage fee for breach of contract.&lt;ref&gt;{{cite news|url=https://www.bbc.co.uk/news/world-us-canada-42808521|title=Grumpy Cat wins $710,000 payout in copyright lawsuit|date=January 24, 2018|access-date=May 22, 2019|work=BBC News}}&lt;/ref&gt;&lt;ref&gt;{{cite news|url=https://apps.washingtonpost.com/g/documents/national/grumpy-cat-verdict/2719/|title=Grumpy Cat Verdict|newspaper=The Washington Post|access-date=August 4, 2018}}&lt;/ref&gt;
+
+== Death ==
+Tardar Sauce died at her home in the arms of her owner Tabatha following complications from a [[urinary tract infection]] on May 14, 2019, at age 7.&lt;ref name=":0"&gt;{{cite web|url=https://www.huffpost.com/entry/grumpy-cat-dead_n_5cde79b2e4b00e035b8daba1|title=Grumpy Cat, Online Pet Sensation, Dead At 7|work=[[HuffPost]]|date=May 17, 2019|access-date=May 22, 2019|first=Lee|last=Moran|archive-url=https://web.archive.org/web/20190517100542/https://www.huffpost.com/entry/grumpy-cat-dead_n_5cde79b2e4b00e035b8daba1|archive-date=May 17, 2019|url-status=live}}&lt;/ref&gt;&lt;ref&gt;{{cite web|archive-date=May 17, 2019|archive-url=https://web.archive.org/web/20190517103751/https://www.nytimes.com/2019/05/17/business/media/grumpy-cat-dead.html|title=Grumpy Cat, Whose Frown Inspired an Internet Meme, Is Dead at 7|work=[[The New York Times]]|date=May 17, 2019|access-date=May 22, 2019|url=https://www.nytimes.com/2019/05/17/business/media/grumpy-cat-dead.html|first=Daniel|last=Victor|url-status=live}}&lt;/ref&gt; Her death was announced on May 17, 2019, on [[social media]] and she was mourned by many people across the globe. Tributes were posted worldwide.&lt;ref name=":0" /&gt; She was buried at Sunland Pet Rest Cemetery in Sun City, Arizona.
+
+== Film ==
+Grumpy Cat appears in ''[[Lil Bub &amp; Friendz]]'', a documentary premiered at the [[Tribeca Film Festival]] on April 18, 2013, and won the Tribeca Online Festival Best Feature Film.&lt;ref name="austinchronicle"/&gt;&lt;ref&gt;{{cite news|url=https://www.huffingtonpost.com/2013/03/18/lil-bub-and-friendz-trailer-video_n_2900853.html?ncid=edlinkusaolp00000003|title='Lil Bub &amp; Friendz' Trailer: From Meme To The Movies (VIDEO)|last=Makarechi|first=Kia|date=March 18, 2013|access-date=May 22, 2019|work=HuffPost}}&lt;/ref&gt;&lt;ref name="tribecafilm"&gt;{{cite web|url=http://www.tribecafilm.com/filmguide/5132382f1c7d76a6bb0001f8-lil-bub-friendz|title=Lil Bub &amp; Friendz|publisher=Tribeca Film Festival|access-date=August 2, 2018}}&lt;/ref&gt;&lt;ref name="tff-winners"&gt;{{cite web|url=http://tribecafilm.com/festival/features/tff-2013-award-winners|title=Here Are Your TFF 2013 Award Winners|date=April 25, 2013|publisher=Tribeca Film Festival|access-date=May 22, 2019}}&lt;/ref&gt; In May 2013, Broken Road Productions [[Option (filmmaking)|option]]ed Grumpy Cat for a "''[[Garfield]]''-like feature film" adaptation.&lt;ref name="wsj"/&gt;&lt;ref name="deadline"&gt;{{cite web|url=https://www.deadline.com/2013/05/if-this-doesnt-make-her-smile-nothing-will-grumpy-cat-gets-movie-deal/|title=Grumpy Cat Gets Garfield-Like Movie Deal|last=Fleming|first=Mike Jr|website=Deadline Hollywood|date=May 29, 2013|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://movies.yahoo.com/blogs/movietalk/fans-want-grumpy-cat-movie-171228850.html|title=What Fans Want From Grumpy Cat, the Movie|last=Deming|first=Mark|date=May 30, 2013|publisher=[[Yahoo! Movies]]|access-date=May 22, 2019}}&lt;/ref&gt; Film producer [[Todd Garner]] said, "We think we can build a big family comedy around this character".&lt;ref name="deadline"/&gt;
+
+On June 11, 2014, it was announced that [[Lifetime (TV network)|Lifetime]] would produce a film starring Grumpy Cat, entitled ''[[Grumpy Cat's Worst Christmas Ever]]''. The film debuted on November 29, 2014. [[Tim Hill (director)|Tim Hill]], the film's director, and Jeff Morris wrote the script, and principal photography took place over the summer.&lt;ref&gt;{{cite news|url=https://www.hollywoodreporter.com/news/grumpy-cat-star-lifetime-holiday-710768|title=Grumpy Cat to Star in Lifetime Holiday Movie (Exclusive)|last=Jarvey|first=Natalie|date=June 11, 2014|work=[[The Hollywood Reporter]]|access-date=May 22, 2019}}&lt;/ref&gt; [[Aubrey Plaza]] voiced the Grumpy Cat character,&lt;ref&gt;{{cite news|url=https://www.hollywoodreporter.com/live-feed/lifetimes-grumpy-cat-aubrey-plaza-725727|title=Lifetime Chooses Voice of Grumpy Cat|last=Goldberg|first=Lesley|date=September 17, 2014|work=The Hollywood Reporter|access-date=May 22, 2019}}&lt;/ref&gt; and was also a producer on the film. On November 6, 2014, Lifetime released a tongue-in-cheek video about the casting and Plaza's "process" for becoming the voice of Grumpy Cat.&lt;ref&gt;{{cite web|url=http://screenertv.com/news-features/aubrey-plaza-grumpy-cat-movie-audition-video/|title=Watch Aubrey Plaza nail the Grumpy Cat audition video|author=Huggins|first=Sarah|date=November 6, 2014|website=screenertv.com|access-date=May 22, 2019}}&lt;/ref&gt;
+
+The film received mostly negative reviews.&lt;ref&gt;{{cite web|last1=Viruet|first1=Pilot|title='Grumpy Cat's Worst Christmas Ever' Is Every Bit as Awful as You Feared|url=http://flavorwire.com/490576/grumpy-cats-worst-christmas-ever-is-every-bit-as-awful-as-you-feared|publisher=Flavorwire|access-date=November 30, 2014}}&lt;/ref&gt;&lt;ref&gt;{{cite news|last1=Stuever|first1=Hank|title=Grumpy Cat's Lifetime holiday movie: Claws out for Claus|url=https://www.washingtonpost.com/entertainment/tv/grumpy-cats-lifetime-holiday-movie-claws-out-for-claus/2014/11/28/59792c8c-7717-11e4-bd1b-03009bd3e984_story.html|newspaper=[[Washington Post]]|access-date=November 30, 2014|date=November 28, 2014}}&lt;/ref&gt; On [[review aggregator]] [[Rotten Tomatoes]], the film holds an approval rating of 27%, based on 11 reviews, and an average rating of 4.17/10.&lt;ref&gt;{{cite web| url=https://www.rottentomatoes.com/m/grumpy_cats_worst_christmas_ever_2014/ | title=''Grumpy Cat's Worst Christmas Ever'' |work=[[Rotten Tomatoes]] }}&lt;/ref&gt;
+
+== Earnings ==
+In March 2013, Bryan Bundesen indicated that Grumpy Cat earned them income in the "mid-five figures", which increased to "low-six-figures" by May 2013.&lt;ref name="cnn" /&gt;&lt;ref name="wsj" /&gt; As of August 2018, the Bundesens had not disclosed the Grumpy Cat brand's net worth, though online speculation estimated it between $1 million and $100 million.&lt;ref name="nymag"&gt;{{cite web|url=https://nymag.com/news/business/boom-brands/grumpy-cat-ben-lashes-2013-10/index.html|title=Boom Brands 2013: Grumpy Cat|last=Van Syckle|first=Katie|date=September 29, 2013|work=[[New York (magazine)|New York]]|access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{Cite news|url=https://www.express.co.uk/news/weird/544409/Grumpy-Cat-worth-more-than-Hollywood-stars|title=Cheer up Grumpy Cat, you've got a £64million fortune|last=Parker|first=Mike|date=December 7, 2014|work=Daily Express|access-date=May 22, 2019}}&lt;/ref&gt;
+
+== Recognition ==
+*[[MSNBC]] named Grumpy Cat 2012's most influential cat.&lt;ref name="deadline"/&gt;
+*Grumpy Cat is one of a few select non-humans to receive one of ''[[The Wall Street Journal]]''{{'}}s signature [[Stippling|stipple]] portraits.&lt;ref&gt;{{Cite news|url=http://gawker.com/grumpy-cat-latest-non-human-entity-to-get-wsj-stipple-p-510568066|title=Grumpy Cat Latest Non-Human Entity To Get WSJ Stipple Portrait|last=Layne|first=Ken|work=Gawker|date=May 30, 2013|access-date=May 22, 2019}}&lt;/ref&gt;
+*Grumpy Cat won [[BuzzFeed]]'s Meme of the Year Award at the [[2013 Webby Awards]].&lt;ref&gt;{{cite web|url=https://chicagotribune.newspapers.com/clip/40163393/chicago_tribune/|title=Celebrities|newspaper=Chicago Tribune|location=Chicago, Illinois|date=May 31, 2013|page=4-2|via=Newspapers.com}}&lt;/ref&gt;&lt;ref&gt;{{cite web|url=https://www.youtube.com/watch?v=MxJ2pPKc414 |title=Patton Oswalt Presents Meme of the Year |publisher=The Webby Awards|via=YouTube |date=May 22, 2013|access-date=May 22, 2019}}&lt;/ref&gt;
+*Grumpy Cat won first prize Golden Kitty at the second annual [[Internet Cat Video Festival]].&lt;ref&gt;{{cite web|last=Brooks|first=Jennifer|url=http://www.startribune.com/local/221578681.html |title=Glamorous. Glowering. Grumpy Cat visits the fair |work=Star Tribune |date=August 29, 2013 |access-date=May 22, 2019}}&lt;/ref&gt;&lt;ref&gt;{{cite magazine|last=Waxman|first=Olivia B. |url=http://newsfeed.time.com/2013/08/29/grumpy-cat-is-officially-the-internets-favorite-feline-meme/ |title=Grumpy Cat Is Officially the Internet's Favorite Feline Meme |magazine=Time |date=August 29, 2013 |access-date=May 22, 2019}}&lt;/ref&gt;
+*Grumpy Cat won a Lifetime Achievement Award at the 2013 Friskies.&lt;ref&gt;{{cite magazine|last=Waxman|first=Olivia B.|url=http://newsfeed.time.com/2013/10/16/1-year-old-grumpy-cat-wins-lifetime-achievement-award-for-being-a-cat/ |title=1-Year-Old Grumpy Cat Wins Lifetime Achievement Award for Being a Cat |magazine=Time |date= October 16, 2013|access-date=May 22, 2019}}&lt;/ref&gt;
+*[[Foursquare Swarm|Swarm by Foursquare]] released a limited-edition sticker featuring Grumpy Cat.&lt;ref&gt;{{cite web|url=http://blog.foursquare.com/post/130226006388/everycheckinsavesakitten|title=#EveryCheckInSavesAKitten|website=The Foursquare Blog|date=September 30, 2015|access-date=May 22, 2019|archive-url=https://web.archive.org/web/20151003201621/http://blog.foursquare.com/post/130226006388/everycheckinsavesakitten|archive-date=October 3, 2015}}&lt;/ref&gt;
+*Grumpy Cat won People's Voice Award in the Social Content and Marketing – Animals Category at the [[2015 Webby Awards]].&lt;ref&gt;{{Cite news|url=https://www.webbyawards.com/winners/2015/social/social-content-and-marketing/animals/grumpy-cat/|title=Grumpy Cat|publisher=The Webby Awards|access-date=May 22, 2019}}&lt;/ref&gt;
+
+== See also ==
+*[[Cats and the Internet]]
+*[[List of individual cats]]
+*[[List of Internet phenomena]]
+*[[List of wealthiest animals]]
+{{Clear}}
+
+== References ==
+{{Reflist}}
+
+== External links ==
+{{Commons category}}
+*{{Official website}}
+*{{IMDb name|5585082}}
+*[https://www.reddit.com/r/pics/comments/10bu17/meet_grumpy_cat/ Original Reddit post: "Meet Grumpy Cat"]
+
+{{Animal actors}}
+{{Authority control}}
+
+[[Category:2012 animal births]]
+[[Category:2019 animal deaths]]
+[[Category:Animals on the Internet]]
+[[Category:Female mammals]]
+[[Category:Individual cats]]
+[[Category:Individual animals in the United States]]
+[[Category:Internet memes]]
+[[Category:Internet memes introduced in 2012]]
+[[Category:Deaths from urinary tract infection]]</text>
+      <sha1>l0tka2rxi2b0bgdy1rajfolgwjceor0</sha1>
+    </revision>
+  </page>
+</mediawiki>
