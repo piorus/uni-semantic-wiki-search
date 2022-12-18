@@ -3,7 +3,7 @@ corpus = [
     "Nyan Cat is a YouTube video uploaded in April 2011, which became an internet meme. The video merged a Japanese pop song with an animated cartoon cat with a Pop-Tart for a torso flying through space and leaving a rainbow trail behind",
     "Tardar Sauce (April 4, 2012 – May 14, 2019), nicknamed Grumpy Cat, was an American Internet celebrity cat. She was known for her permanently \"grumpy\" facial appearance, which was caused by an underbite and feline dwarfism"
 ]
-index = ['Nyan Cat', 'Grumpy Cat', 'Hank the Cat']
+index = ['Hank the Cat', 'Nyan Cat', 'Grumpy Cat']
 
 import pandas as pd
 import nltk
