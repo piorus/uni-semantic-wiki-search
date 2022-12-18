@@ -1,4 +1,4 @@
-# Natural Language Processing Project - Semantic Wikipedia Search written in Python
+# Semantic Wikipedia Search in Python
 
 ## Prerequisites
 
